@@ -1,0 +1,8 @@
+ultralytics        # detector YOLO (nếu dùng --weights)
+trackers           # ByteTrackTracker (Roboflow)
+supervision
+opencv-python
+numpy
+pyyaml
+jsonschema
+pytest
