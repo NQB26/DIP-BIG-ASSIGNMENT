@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "rule_event.schema.json",
+  "title": "RuleEvent",
+  "description": "Event CONFIRMED gửi sang Event Manager/Dashboard. Các trường 'lõi' khớp data_contract.md gốc; các trường 'mở rộng' là tuỳ chọn (additive) nên Dashboard cũ vẫn chạy.",
+  "type": "object",
+  "required": ["event_id", "rule_id", "rule_name", "track_id", "status", "timestamp",
+               "video_time_sec", "duration_sec", "zone_id", "bbox", "evidence"],
+  "properties": {
+    "event_id": {"type": "string", "pattern": "^EVT_[0-9]{8}_[0-9]{4,}$"},
+    "rule_id": {"enum": ["R1", "R2", "R3"]},
+    "rule_name": {"enum": ["NO_LAB_COAT", "RESTRICTED_ZONE", "PHONE_USAGE"]},
+    "track_id": {"type": "integer", "minimum": 0},
+    "status": {"const": "CONFIRMED"},
+    "timestamp": {"type": "string", "description": "Giờ địa phương, định dạng như data_contract: 2026-11-15T10:15:32.400"},
+    "video_time_sec": {"type": "number", "minimum": 0},
+    "duration_sec": {"type": "number", "minimum": 0},
+    "zone_id": {"type": "string"},
+    "bbox": {"type": "array", "items": {"type": "number"}, "minItems": 4, "maxItems": 4},
+    "evidence": {
+      "type": "object", "required": ["image_path", "clip_path"],
+      "properties": {"image_path": {"type": ["string", "null"]}, "clip_path": {"type": ["string", "null"]}}
+    },
+
+    "schema_version": {"type": "string"},
+    "severity": {"enum": ["low", "medium", "high"]},
+    "frame_id": {"type": "integer", "minimum": 0},
+    "violation_start_sec": {"type": "number", "minimum": 0},
+    "zone_type": {"enum": ["general", "restricted"]},
+    "frame_size": {"type": "object", "required": ["width", "height"],
+                   "properties": {"width": {"type": "integer"}, "height": {"type": "integer"}}},
+    "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "details": {"type": "object"},
+    "source": {"type": "object"}
+  },
+  "allOf": [
+    {"if": {"properties": {"rule_id": {"const": "R1"}}},
+     "then": {"properties": {"rule_name": {"const": "NO_LAB_COAT"}}}},
+    {"if": {"properties": {"rule_id": {"const": "R2"}}},
+     "then": {"properties": {"rule_name": {"const": "RESTRICTED_ZONE"}}}},
+    {"if": {"properties": {"rule_id": {"const": "R3"}}},
+     "then": {"properties": {"rule_name": {"const": "PHONE_USAGE"},
+              "details": {"required": ["phone_bbox", "phone_confidence"]}}}}
+  ]
+}
