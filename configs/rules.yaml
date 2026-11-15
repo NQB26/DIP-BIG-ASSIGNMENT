@@ -1,0 +1,31 @@
+rules:
+  R1:
+    name: "NO_LAB_COAT"
+    description: "Không mặc áo blouse trong khu vực thí nghiệm"
+    enabled: true
+    target_zone_type: "general"
+    min_duration_sec: 2.5        # Vi phạm liên tục 2-3s mới báo
+    grace_period_sec: 0.4        # Bỏ qua frame AI mất detection ngắn
+    cooldown_sec: 15.0           # Không báo lặp lại trong 15s
+    min_ioa_threshold: 0.6       # Tỷ lệ box áo nằm trong box người
+    min_person_height_px: 100    # Bỏ qua người đứng quá xa/mờ
+
+  R2:
+    name: "RESTRICTED_ZONE"
+    description: "Đi vào vùng hạn chế"
+    enabled: true
+    target_zone_type: "restricted"
+    anchor_point: "bottom_center"
+    min_duration_sec: 1.5        # Ở trong vùng 1-2s mới báo
+    grace_period_sec: 0.3
+    cooldown_sec: 10.0
+
+  R3:
+    name: "PHONE_USAGE"
+    description: "Sử dụng điện thoại trong khu vực thí nghiệm"
+    enabled: true
+    target_zone_type: "general"
+    min_duration_sec: 3.0        # Duy trì ít nhất 3s
+    grace_period_sec: 0.4
+    cooldown_sec: 15.0
+    upper_body_ratio: 0.65       # Chỉ xét 65% chiều cao phía trên của người
