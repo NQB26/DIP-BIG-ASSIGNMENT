@@ -2,7 +2,7 @@ rules:
   R1:
     name: "NO_LAB_COAT"
     description: "Không mặc áo blouse trong khu vực thí nghiệm"
-    enabled: true
+    enabled: false
     target_zone_type: "general"
     min_duration_sec: 2.5        # Vi phạm liên tục 2-3s mới báo
     grace_period_sec: 0.4        # Bỏ qua frame AI mất detection ngắn
@@ -42,8 +42,8 @@ common:
   dedup_iou: 0.5               # chống báo trùng khi đổi track_id
 
 tracker:
-  lost_buffer_sec: 1.5
+  lost_buffer_sec: 3.0
   activation_threshold: 0.5
   high_conf_threshold: 0.6
   min_consecutive_frames: 2
-  min_iou: 0.1
+  min_iou: 0.05
