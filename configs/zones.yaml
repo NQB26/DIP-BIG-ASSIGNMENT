@@ -1,19 +1,20 @@
+camera_id: cam01
+reference_frame: {width: 1280, height: 720}
 zones:
-  - zone_id: "lab_main_area"
-    name: "Khu vực thí nghiệm chung"
-    type: "general"
-    # Đa giác 4 góc (tọa độ chuẩn hóa [x, y])
-    polygon:
-      - [0.05, 0.10]
-      - [0.95, 0.10]
-      - [0.95, 0.95]
-      - [0.05, 0.95]
-
-  - zone_id: "restricted_chemical_zone"
-    name: "Khu vực tủ hóa chất hạn chế"
-    type: "restricted"
-    polygon:
-      - [0.65, 0.20]
-      - [0.92, 0.20]
-      - [0.92, 0.75]
-      - [0.65, 0.75]
+- zone_id: restricted_1
+  name: restricted_1
+  type: restricted
+  polygon:
+  - [0.5805, 0.7903]
+  - [0.643, 0.9736]
+  - [0.9625, 0.9417]
+  - [0.8523, 0.7694]
+  - [0.5805, 0.7903]
+- zone_id: restricted_2
+  name: restricted_2
+  type: restricted
+  polygon:
+  - [0.9125, 0.6972]
+  - [0.6648, 0.7]
+  - [0.6133, 0.6486]
+  - [0.8508, 0.6417]
