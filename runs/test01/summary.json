@@ -1,0 +1,10 @@
+{
+  "frames": 928,
+  "fps": 30.0,
+  "unique_track_ids": 3,
+  "median_track_life_sec": 9.27,
+  "short_tracks_lt_1s": 0,
+  "events_by_rule": {
+    "R2": 1
+  }
+}
