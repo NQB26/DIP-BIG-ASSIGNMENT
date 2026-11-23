@@ -1,0 +1,25 @@
+# External dataset provenance log
+
+Create a copy named `SOURCES.md` when adding a downloaded dataset. Keep one
+record per dataset version; do not rely on the folder name alone.
+
+| Field | Value |
+|---|---|
+| Dataset title | |
+| Creator / workspace | |
+| Project URL | |
+| Dataset version | |
+| Download date (YYYY-MM-DD) | |
+| Export format | Ultralytics YOLO detection |
+| Advertised license | |
+| License / attribution URL | |
+| Original class list | |
+| Class mapped to `lab_coat` | |
+| Number of train / val / test images | |
+| Any filtering / remapping | `scripts/prepare_labcoat_dataset.py` |
+| Duplicate audit | |
+| Notes / known annotation limitations | |
+
+Do not redistribute a dataset just because it is publicly downloadable. Check
+the license and image-level terms, retain attribution, and document all
+transformations.

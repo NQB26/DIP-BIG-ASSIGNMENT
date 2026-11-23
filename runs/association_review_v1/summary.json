@@ -1,0 +1,21 @@
+{
+  "video": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\zone_test.mp4",
+  "frames_processed": 300,
+  "input_fps": 30.0,
+  "processing_seconds": 27.089,
+  "processing_fps": 11.074,
+  "mean_active_tracks_per_frame": 0.503,
+  "min_lab_coat_ioa": 0.6,
+  "phone_upper_body_ratio": 0.65,
+  "counts": {
+    "lab_coat_detections": 33,
+    "lab_coat_matched": 33,
+    "lab_coat_unmatched": 0
+  },
+  "matched_track_ids_by_class": {
+    "lab_coat": {
+      "0": 33
+    }
+  },
+  "note": "Diagnostic association only; this script does not emit safety RuleEvents."
+}

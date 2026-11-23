@@ -1,0 +1,19 @@
+{
+  "video": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\zone_test.mp4",
+  "weights": "yolo11n-pose.pt",
+  "frames": 300,
+  "input_fps": 30.0,
+  "processing_seconds": 18.0,
+  "processing_fps": 16.666,
+  "frames_with_pose": 153,
+  "pose_instances": 156,
+  "mean_pose_instances_per_frame": 0.52,
+  "left_wrist_visible_instances": 96,
+  "right_wrist_visible_instances": 133,
+  "both_wrists_visible_instances": 80,
+  "mean_visible_keypoints_per_pose": 12.308,
+  "keypoint_conf_threshold": 0.35,
+  "pose_conf_threshold": 0.25,
+  "imgsz": 512,
+  "device": "cpu"
+}

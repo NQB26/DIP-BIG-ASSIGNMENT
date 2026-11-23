@@ -1,0 +1,11 @@
+{
+  "dataset": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v1_class0",
+  "output": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\curated\\lab_coat_v1_verified",
+  "total_images": 45,
+  "verified_positive": 45,
+  "verified_negative": 0,
+  "needs_review": 0,
+  "rejected": 0,
+  "pending": 0,
+  "approved_total": 45
+}

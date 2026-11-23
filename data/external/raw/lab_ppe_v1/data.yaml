@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['2']
+
+roboflow:
+  workspace: luu-trong-khanh-b24dcdk044
+  project: lab-clothing-wmhtu-nn2re
+  version: 1
+  license: CC BY 4.0
+  url: https://app.roboflow.com/luu-trong-khanh-b24dcdk044/lab-clothing-wmhtu-nn2re/1

@@ -1,0 +1,150 @@
+{
+  "project_root": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main",
+  "data_dir": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data",
+  "model_dir": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\models",
+  "opencv_version": "5.1.0",
+  "data_dir_exists": true,
+  "model_dir_exists": true,
+  "images": [],
+  "videos": [
+    {
+      "path": "data\\synthetic\\coat_ok.mp4",
+      "size_bytes": 1784434,
+      "readable": true,
+      "width": 1280,
+      "height": 720,
+      "fps": 30.0,
+      "frame_count": 600,
+      "duration_sec": 20.0
+    },
+    {
+      "path": "data\\synthetic\\cross_two_people.mp4",
+      "size_bytes": 3076339,
+      "readable": true,
+      "width": 1280,
+      "height": 720,
+      "fps": 30.0,
+      "frame_count": 600,
+      "duration_sec": 20.0
+    },
+    {
+      "path": "data\\synthetic\\leave_return.mp4",
+      "size_bytes": 1327869,
+      "readable": true,
+      "width": 1280,
+      "height": 720,
+      "fps": 30.0,
+      "frame_count": 720,
+      "duration_sec": 24.0
+    },
+    {
+      "path": "data\\synthetic\\no_coat.mp4",
+      "size_bytes": 1348500,
+      "readable": true,
+      "width": 1280,
+      "height": 720,
+      "fps": 30.0,
+      "frame_count": 600,
+      "duration_sec": 20.0
+    },
+    {
+      "path": "data\\synthetic\\phone_hand.mp4",
+      "size_bytes": 1993556,
+      "readable": true,
+      "width": 1280,
+      "height": 720,
+      "fps": 30.0,
+      "frame_count": 600,
+      "duration_sec": 20.0
+    },
+    {
+      "path": "data\\synthetic\\phone_table.mp4",
+      "size_bytes": 1994795,
+      "readable": true,
+      "width": 1280,
+      "height": 720,
+      "fps": 30.0,
+      "frame_count": 600,
+      "duration_sec": 20.0
+    },
+    {
+      "path": "data\\synthetic\\restricted.mp4",
+      "size_bytes": 1488227,
+      "readable": true,
+      "width": 1280,
+      "height": 720,
+      "fps": 30.0,
+      "frame_count": 600,
+      "duration_sec": 20.0
+    },
+    {
+      "path": "data\\synthetic\\restricted_brief.mp4",
+      "size_bytes": 961181,
+      "readable": true,
+      "width": 1280,
+      "height": 720,
+      "fps": 30.0,
+      "frame_count": 300,
+      "duration_sec": 10.0
+    },
+    {
+      "path": "data\\tracking_test.mp4",
+      "size_bytes": 2572993,
+      "readable": true,
+      "width": 1280,
+      "height": 720,
+      "fps": 30.0,
+      "frame_count": 821,
+      "duration_sec": 27.367
+    },
+    {
+      "path": "data\\tracking_test_2.mp4",
+      "size_bytes": 1658884,
+      "readable": true,
+      "width": 1280,
+      "height": 720,
+      "fps": 30.0,
+      "frame_count": 387,
+      "duration_sec": 12.9
+    },
+    {
+      "path": "data\\zone_test.mp4",
+      "size_bytes": 5080536,
+      "readable": true,
+      "width": 1280,
+      "height": 720,
+      "fps": 30.0,
+      "frame_count": 1531,
+      "duration_sec": 51.033
+    },
+    {
+      "path": "data\\zone_test_2.mp4",
+      "size_bytes": 3075893,
+      "readable": true,
+      "width": 1280,
+      "height": 720,
+      "fps": 30.0,
+      "frame_count": 928,
+      "duration_sec": 30.933
+    }
+  ],
+  "labels": [],
+  "dataset_yaml": [],
+  "weights": [
+    {
+      "path": "yolo11n.pt",
+      "size_bytes": 5613764
+    }
+  ],
+  "warnings": [],
+  "summary": {
+    "image_count": 0,
+    "video_count": 12,
+    "label_file_count": 0,
+    "label_instance_count": 0,
+    "dataset_yaml_count": 0,
+    "weight_count": 1,
+    "images_with_missing_label_file": 0,
+    "label_files_with_invalid_lines": 0
+  }
+}

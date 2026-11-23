@@ -1,0 +1,55 @@
+{
+  "data_yaml": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v1_class0\\data.yaml",
+  "dataset_root": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v1_class0",
+  "class_names": {
+    "0": "lab_coat"
+  },
+  "target_class": "lab_coat",
+  "target_class_id": 0,
+  "splits": {
+    "train": {
+      "images": 30,
+      "label_files": 30,
+      "missing_label_files": 0,
+      "empty_negative_images": 0,
+      "images_with_target": 30,
+      "target_objects": 45,
+      "other_class_objects": 0,
+      "invalid_label_lines": 0,
+      "out_of_range_boxes": 0,
+      "class_id_counts": {
+        "0": 45
+      },
+      "orphan_label_files": 0,
+      "label_directory": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v1_class0\\labels\\train",
+      "image_directory": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v1_class0\\images\\train"
+    },
+    "val": {
+      "images": 15,
+      "label_files": 15,
+      "missing_label_files": 0,
+      "empty_negative_images": 0,
+      "images_with_target": 15,
+      "target_objects": 20,
+      "other_class_objects": 0,
+      "invalid_label_lines": 0,
+      "out_of_range_boxes": 0,
+      "class_id_counts": {
+        "0": 20
+      },
+      "orphan_label_files": 0,
+      "label_directory": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v1_class0\\labels\\val",
+      "image_directory": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v1_class0\\images\\val"
+    }
+  },
+  "duplicate_image_hashes_across_splits": [],
+  "warnings": [
+    "train: no empty negative images (all images contain the target class).",
+    "val: no empty negative images (all images contain the target class).",
+    "No test split is defined; validation metrics must not be reported as final test metrics.",
+    "Training set has only 30 images; treat the first model as a pipeline baseline, not a robust detector.",
+    "Validation set has only 15 images; validation metrics may have high uncertainty."
+  ],
+  "errors": [],
+  "status": "PASS_WITH_WARNINGS"
+}

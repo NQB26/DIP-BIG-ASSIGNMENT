@@ -1,0 +1,6 @@
+path: C:/Users/ACER/Downloads/DIP-BIG-ASSIGNMENT-main/data/external/curated/lab_coat_v3
+train: images/train
+val: images/val
+test: images/test
+nc: 1
+names: ['lab_coat']

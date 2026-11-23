@@ -1,0 +1,24 @@
+# Example only: normalize every raw source separately before merging.
+# Never copy raw class IDs from one dataset into another.
+
+target:
+  name: lab_coat
+  class_id: 0
+
+sources:
+  - source_id: lab_clothing_v1
+    raw_path: data/external/raw/lab_ppe_v1
+    normalized_path: data/external/processed/lab_coat_v1_class0
+    source_class_id: 0
+    verified_semantics: true
+    license: CC BY 4.0
+    project_url: "https://app.roboflow.com/luu-trong-khanh-b24dcdk044/lab-clothing-wmhtu-nn2re/1"
+
+  # Add future sources only after checking their own data.yaml and label visuals.
+  # - source_id: external_ppe_v2
+  #   raw_path: data/external/raw/external_ppe_v2
+  #   normalized_path: data/external/processed/external_ppe_v2_labcoat
+  #   source_class_name: "Lab Coat"
+  #   verified_semantics: true
+  #   license: "<check source license>"
+  #   project_url: "<dataset page>"

@@ -1,0 +1,13 @@
+﻿video_path,session_group,split,usable,contains_person,contains_lab_coat,contains_phone,phone_small_or_blurry,notes
+data\synthetic\coat_ok.mp4,,,,,,,,
+data\synthetic\cross_two_people.mp4,,,,,,,,
+data\synthetic\leave_return.mp4,,,,,,,,
+data\synthetic\no_coat.mp4,,,,,,,,
+data\synthetic\phone_hand.mp4,,,,,,,,
+data\synthetic\phone_table.mp4,,,,,,,,
+data\synthetic\restricted.mp4,,,,,,,,
+data\synthetic\restricted_brief.mp4,,,,,,,,
+data\tracking_test.mp4,,,,,,,,
+data\tracking_test_2.mp4,,,,,,,,
+data\zone_test.mp4,,,,,,,,
+data\zone_test_2.mp4,,,,,,,,

@@ -1,0 +1,5882 @@
+{
+  "images/test/014_0271_005148_crop_margin_0-1_jpg.rf.de1f614ad8b614ab215458517b6bc79e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50182463,
+        0.45320928,
+        0.7497617,
+        0.4959252
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/test/20231008_221913_jpg.rf.0708cb7005253d33db1afdbbf882ab89.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47592272,
+        0.53114187,
+        0.74596309,
+        0.64619377
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/test/detect_20260205_145513_-_jpg.rf.b1452023bfe31ff1c65ca64c595d58bc.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.778125,
+        0.62708333,
+        0.33125,
+        0.74166667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/test/detect_20260312_140704_-_jpg.rf.1f4f9e2bae4f15e1580125dd4632991b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.334375,
+        0.684375,
+        0.334375,
+        0.62708333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/test/014_0271_005251_crop_margin_0-1_jpg.rf.98f9458350e15a32d70924a44b09c10f.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49374543,
+        0.45281873,
+        0.73648229,
+        0.50873832
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/test/detect_20260312_144059_-_jpg.rf.b90b9026faa64d53eab4d3e51dd8c9d0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.63515625,
+        0.715625,
+        0.2484375,
+        0.56458333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/test/detect_20260312_153038_-_jpg.rf.8468ac92d9804464d5cc56019571d4eb.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.66953125,
+        0.69583333,
+        0.3171875,
+        0.60416667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/test/detect_20260319_155850_-_jpg.rf.5ebb1d7a762d4a975bd628041bad298f.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.3921875,
+        0.73645833,
+        0.521875,
+        0.52291667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/test/detect_20260401_132831_-_jpg.rf.ead473c5154534bc4ec38b2dedb0ff82.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.9015625,
+        0.58958333,
+        0.19375,
+        0.72083333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/test/detect_20260408_164227_-_jpg.rf.ec5b7ecc3bd1939d64afffd34e2919e6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.84140625,
+        0.56041667,
+        0.3140625,
+        0.79583333
+      ],
+      [
+        0.68046875,
+        0.790625,
+        0.2796875,
+        0.41458333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/test/detect_20260408_170609_-_jpg.rf.fe77f0711bbee21f56398dd205f97717.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.86875,
+        0.69791667,
+        0.259375,
+        0.6
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/test/detect_20260408_180243_-_jpg.rf.d4eeaa10c63704c1d1c1b7837acd2ceb.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.153125,
+        0.62395833,
+        0.30625,
+        0.57291667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/test/detect_20260408_192724_-_jpg.rf.8dd339706a52fb04e597d9598dae3402.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.89296875,
+        0.48061771,
+        0.2109375,
+        0.59456875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/test/detect_20260408_201200_-_jpg.rf.ac96e4b51cd2106c5121cb51352b8108.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.12734375,
+        0.56979167,
+        0.2546875,
+        0.50625
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/test/LC12_jpg.rf.315aeef4e52131c9a5c83c51c2aa0155.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51250903,
+        0.55141393,
+        0.6439216,
+        0.6753147
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/test/museums-victoria-CWbxnAk77so-unsplash_jpg.rf.de6dcb8dae2d8abd6667c8aea164a132.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.6361402359108781,
+        0.5374903250773994,
+        0.35419397116644824,
+        0.6171633126934984
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/test/pexels-pavel-danilyuk-5998505_jpg.rf.6ac36e4339d5999c90e49ed7dad87aa3.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49178287,
+        0.65043218,
+        0.87400398,
+        0.69913564
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/test/SG8_jpg.rf.ccbf879930fb87cf9b609de582d1adc5.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48856209150326796,
+        0.6556372549019608,
+        0.7516339869281046,
+        0.6446078431372549
+      ]
+    ],
+    "note": "manually_reviewed_or_corrected"
+  },
+  "images/test/walter-otto-PT70CT6mATQ-unsplash_jpg.rf.e9cd35c87519ca434212734bc9b584b7.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.73333437,
+        0.62922605,
+        0.44375,
+        0.50338367
+      ],
+      [
+        0.1875,
+        0.63473336,
+        0.32083438,
+        0.3979849
+      ],
+      [
+        0.4515625,
+        0.4624823,
+        0.11354062,
+        0.22337423
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/-2024-05-20-142928_png.rf.cca16c5a1fadb1adeec35c8d80205486.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5151585,
+        0.50085799,
+        0.62409222,
+        0.96511834
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/-2024-05-20-142937_png.rf.2487d6bc478cbefd3ebfda808afe85a0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.21933086,
+        0.7234957,
+        0.24163569,
+        0.54727794
+      ],
+      [
+        0.76951673,
+        0.74068768,
+        0.17843866,
+        0.39541547
+      ],
+      [
+        0.43680297,
+        0.66045845,
+        0.12267658,
+        0.44126074
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/000_0033_006096_crop_margin_0-1_jpg.rf.63858e2af927bbcf8deedc634722a8df.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.45873646,
+        0.44393688,
+        0.86590253,
+        0.44048173
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/000_0183_006167_crop_margin_0-1_jpg.rf.5c9d41ef2d46480717c3fd6d56a3a6a5.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53145343,
+        0.47378671,
+        0.59727738,
+        0.4831221
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/001_0010_011267_crop_margin_0-1_jpg.rf.454254a554e097e6fc3f060ae8bd231a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47569921,
+        0.47154297,
+        0.6971504,
+        0.45402344
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/001_0018_011337_crop_margin_0-1_jpg.rf.b24439c40df1707edca5045a7f2db1ee.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.4964572,
+        0.48174691,
+        0.53687974,
+        0.5152663
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/001_0043_008931_crop_margin_0-1_jpg.rf.bcb12d1da4a489370eb058e0cdab6731.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.54911278,
+        0.4543075,
+        0.45366917,
+        0.43339263
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/001_0191_007063_crop_margin_0-1_jpg.rf.3bcaa62f41dc361df7933296f51b89ce.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47074122,
+        0.63954368,
+        0.94148244,
+        0.71444073
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/001_0191_007077_crop_margin_0-1_jpg.rf.b83e486fb29043be1f99ed7057d74756.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48467337,
+        0.65256211,
+        0.86649079,
+        0.69487578
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/001_0249_007163_crop_margin_0-1_jpg.rf.d0ceef6fe42df1facbe3f00191359f72.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49112426,
+        0.49079519,
+        0.98224852,
+        0.52432645
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/002_0014_003529_crop_margin_0-1_jpg.rf.920bc541958f69a3065416e6f87d2e8b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.54477444,
+        0.54947413,
+        0.70493734,
+        0.60551888
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/003_0192_004429_crop_margin_0-1_jpg.rf.d94c5958965e2fd633103bf5df754f03.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.44643836,
+        0.46167141,
+        0.61542177,
+        0.47721011
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/005_0020_012211_crop_margin_0-1_jpg.rf.65f0aa906794f87c66ee0ca6b411547a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.4887236,
+        0.47314679,
+        0.61300275,
+        0.40733534
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/014_0271_005121_crop_margin_0-1_jpg.rf.641b0dc8507404319449f0049af7b51b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49895834,
+        0.46471081,
+        0.89842638,
+        0.50417213
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/014_0271_005123_crop_margin_0-1_jpg.rf.354fe7e13068ccb1cfce9371d91e2951.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47371122,
+        0.44899377,
+        0.85602205,
+        0.48680639
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/014_0271_005147_crop_margin_0-1_jpg.rf.aa0e181522f6df57f36cb7ea09ca1fad.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50571347,
+        0.46206857,
+        0.9071462,
+        0.50727228
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/014_0271_005186_crop_margin_0-1_jpg.rf.466a8d1d63751f0a061bf6ecc1c17ff3.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49917429,
+        0.44513678,
+        0.90654641,
+        0.49277897
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/014_0271_005210_crop_margin_0-1_jpg.rf.e6d872497d4c7f00a40caf6536b6f8e6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50293788,
+        0.46289062,
+        0.8999941,
+        0.4921875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/014_0271_005211_crop_margin_0-1_jpg.rf.e1d32ad1176f68a576eeaf13c83dc5b1.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49324921,
+        0.45507812,
+        0.763464,
+        0.49609375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/014_0271_005252_crop_margin_0-1_jpg.rf.a14595c98755df4123f9903250e64482.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50549806,
+        0.47056484,
+        0.9003881,
+        0.52559003
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/014_0273_009187_crop_margin_0-1_jpg.rf.2df519d9fdd64ecc5239ba322693db94.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49315068,
+        0.43925373,
+        0.90319635,
+        0.48716418
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/014_0273_009204_crop_margin_0-1_jpg.rf.2bd1bbf4a07d41c39541ed1fe033ee27.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48417266,
+        0.45305475,
+        0.87841727,
+        0.50542185
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/015_0241_005035_png_jpg.rf.d6c2e9c8b55f433d081221ac94eb10ec.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47256944,
+        0.46269531,
+        0.52708333,
+        0.51914063
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/015_0241_005036_crop_margin_0-1_jpg.rf.98c04099e2437215ce0f4fac5d583c91.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5067073170731707,
+        0.46051602814698983,
+        0.874390243902439,
+        0.5660672400312744
+      ]
+    ],
+    "note": "manually_reviewed_or_corrected"
+  },
+  "images/train/015_0244_005041_png_jpg.rf.cd5ad559b936283a1de1fc3f58984756.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52395833,
+        0.46054688,
+        0.49791667,
+        0.52070313
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/015_0246_009673_png_jpg.rf.73452e1784647a3816333c9aee132c10.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53710938,
+        0.45385742,
+        0.4140625,
+        0.56005859
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/015_0246_009674_png_jpg.rf.40097abb20762484d0003f41990e8268.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47135417,
+        0.45507812,
+        0.41015625,
+        0.54736328
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/015_0246_009750_png_jpg.rf.891e72226c1166d0ac42f2cb58ace097.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51875,
+        0.44765625,
+        0.60972222,
+        0.5390625
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/015_0247_004964_png_jpg.rf.fa35ce36e4b6c1edd2568b29a2a755d1.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48958333,
+        0.45092773,
+        0.31315104,
+        0.50390625
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/015_0250_009639_png_jpg.rf.49fda9f0505fcd52665a22da48bd3b70.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.32268519,
+        0.48254395,
+        0.47962963,
+        0.48413086
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/017_0052_010563_crop_margin_0-1_jpg.rf.986e92a5d066e04a86661317b706d3eb.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48330684,
+        0.47972973,
+        0.87440382,
+        0.57309582
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/017_0064_010691_crop_margin_0-1_jpg.rf.6c141dff789d3eb393b8b8c20fc60ed9.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49003984,
+        0.50160359,
+        0.87450199,
+        0.56703015
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/017_0146_008663_crop_margin_0-1_jpg.rf.7fdf9e6b099a91180488d423a0c7c68f.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48453608,
+        0.50373333,
+        0.86082474,
+        0.59786667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/017_0146_008666_crop_margin_0-1_jpg.rf.ad6d7a9c00670374f191a69b8ba5dd28.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50122249,
+        0.62862319,
+        0.90953545,
+        0.74033816
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/017_0146_008668_crop_margin_0-1_jpg.rf.91563382ee8c25bb683d9b36d47e92e2.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48125,
+        0.5609493,
+        0.9125,
+        0.64940669
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/017_0146_008671_crop_margin_0-1_jpg.rf.c4f677300b527c591b3e9963938df8c7.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.4912854,
+        0.60201794,
+        0.89760349,
+        0.70852018
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/017_0146_008687_crop_margin_0-1_jpg.rf.d8edda3414783c19844fa9da60e4a1ab.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5,
+        0.58488372,
+        0.91773779,
+        0.68139535
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/017_0167_008705_crop_margin_0-1_jpg.rf.1972c323c78009dc2f0bc5fa01fdb119.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49239544,
+        0.62327586,
+        0.89353612,
+        0.75258621
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/017_0183_010447_crop_margin_0-1_jpg.rf.97dcaea81a53fa7d4d04636986b9249a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49398798,
+        0.42530722,
+        0.8987976,
+        0.50345622
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/017_0225_010451_crop_margin_0-1_jpg.rf.0c349ccc545046fc80c9606b40f4673b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5,
+        0.4458081,
+        0.89726673,
+        0.52406758
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/017_0251_008729_crop_margin_0-1_jpg.rf.2286fd46ca16490da3e37c0e1d329872.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52072539,
+        0.59433962,
+        0.64939551,
+        0.74213836
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/017_0251_008745_crop_margin_0-1_jpg.rf.cf813a35839df40418876124d923e838.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.57054455,
+        0.50485437,
+        0.70792079,
+        0.77228597
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/017_0251_008751_crop_margin_0-1_jpg.rf.d3c033e94024b0cb22e266a889415464.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.499666,
+        0.57874906,
+        0.90848363,
+        0.75131876
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/017_0272_008760_crop_margin_0-1_jpg.rf.ac4dd2cc35fe92e84636092935e95a72.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49893768,
+        0.49623734,
+        0.9072238,
+        0.59305355
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/017_0272_008767_crop_margin_0-1_jpg.rf.c5e26b501ba50b5286bad88db932104b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49391727,
+        0.54540421,
+        0.89294404,
+        0.66998893
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0000_012413_crop_margin_0-1_jpg.rf.327ba73423aafad3da25c979da998033.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49774096,
+        0.42087095,
+        0.9126506,
+        0.50557621
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0000_012522_crop_margin_0-1_jpg.rf.d41cfdaa91579c41c39f317a9366b5b0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47847682,
+        0.49110468,
+        0.87417219,
+        0.5258585
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0000_012539_crop_margin_0-1_jpg.rf.6ef6962abe60b3a521a429f8e1ff0a2b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49817185,
+        0.48964625,
+        0.85923218,
+        0.57894737
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0001_012501_crop_margin_0-1_jpg.rf.195543b66a16d844ea47c9d31a265473.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.46136364,
+        0.43651685,
+        0.83484848,
+        0.48539326
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0001_012523_crop_margin_0-1_jpg.rf.4f670534c3496950c7cf340dc565900a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48735119,
+        0.42376078,
+        0.88095238,
+        0.50107759
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0001_012540_crop_margin_0-1_jpg.rf.37969dedb954e8c19a3761c24e95341d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48673947,
+        0.45162225,
+        0.88767551,
+        0.49884125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0003_012483_crop_margin_0-1_jpg.rf.65e24450aaca534a91bda20f611b4564.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5135722,
+        0.45738413,
+        0.86210641,
+        0.50078555
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0005_012418_crop_margin_0-1_jpg.rf.65d251b0801c557d8c36859b66e3c34d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.45784695,
+        0.41950053,
+        0.7846952,
+        0.50743889
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0005_012485_crop_margin_0-1_jpg.rf.4e75df3cfe7ac6adaf6e510cbf8a0018.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5,
+        0.42638732,
+        0.91210191,
+        0.50736127
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0010_012436_crop_margin_0-1_jpg.rf.c9852f4bd7a3291f2226cca073f186d5.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50712251,
+        0.47338867,
+        0.90740741,
+        0.53759766
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0011_012424_crop_margin_0-1_jpg.rf.10010a1c583c512f4b667bc0e13df78e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50269438,
+        0.47047087,
+        0.88298691,
+        0.57488694
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0012_012425_crop_margin_0-1_jpg.rf.2b03a08df8561c564d6153cce1703cb7.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49890591,
+        0.49521432,
+        0.89387309,
+        0.5497295
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0012_012532_crop_margin_0-1_jpg.rf.8db54e2ffd385182d0f66dda0d628794.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.41519435,
+        0.42594595,
+        0.73380448,
+        0.47837838
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0012_012572_crop_margin_0-1_jpg.rf.3f8258e68378b814e49df5879f25724b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47017045,
+        0.49186144,
+        0.75852273,
+        0.5409015
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0017_012517_crop_margin_0-1_jpg.rf.ac61c40c6040d418bbb8f27f2d8828a6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48143564,
+        0.45385742,
+        0.86386139,
+        0.52490234
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0018_012431_crop_margin_0-1_jpg.rf.052c8b48748fb663b77b4528cf236ce6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51355932,
+        0.50226898,
+        0.87457627,
+        0.55858086
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0019_012579_crop_margin_0-1_jpg.rf.7bd6c6b106731910c69115507b93bebf.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50802998,
+        0.48608398,
+        0.89293362,
+        0.57128906
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0020_012520_crop_margin_0-1_jpg.rf.e68d8a2345b3c5add1e6441768f3c40a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52555701,
+        0.46020508,
+        0.82044561,
+        0.54931641
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0021_012447_crop_margin_0-1_jpg.rf.2d99e5c100631cb3afbda447be5253d9.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51284247,
+        0.45546875,
+        0.79280822,
+        0.51601562
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0160_009590_crop_margin_0-1_jpg.rf.865d7bed0cd584e4bcbc4f2b36766628.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49771689,
+        0.48120117,
+        0.8652968,
+        0.57080078
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0162_009545_crop_margin_0-1_jpg.rf.a69ea7723d75a8462cefe3c1d17a3563.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5,
+        0.44631639,
+        0.89726027,
+        0.5128498
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0162_010996_crop_margin_0-1_jpg.rf.53dd5bf5da6fd5a9ad598ccfea26b94f.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50409836,
+        0.48391089,
+        0.89959016,
+        0.58580858
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0163_011048_crop_margin_0-1_jpg.rf.f8e80e919a4f59db6b6735515fd9dde0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50940171,
+        0.4651966,
+        0.88119658,
+        0.54463337
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0172_011049_crop_margin_0-1_jpg.rf.81ce95e961196ed365a6281c7e67e42c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.56131148,
+        0.48154933,
+        0.78688525,
+        0.55796912
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0174_010982_crop_margin_0-1_jpg.rf.bfe6cae2d67de1c56f187b96b0cd340d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49051724,
+        0.41926656,
+        0.89137931,
+        0.50465244
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0174_011030_crop_margin_0-1_jpg.rf.6ef91e2ae75e75cca471e5cb09831b9f.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49944383,
+        0.45664063,
+        0.90989989,
+        0.5375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0174_011077_crop_margin_0-1_jpg.rf.25f8b66d3574ed4741475bb5fa33b68c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.4923913,
+        0.46826172,
+        0.79130435,
+        0.56201172
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0174_011099_crop_margin_0-1_jpg.rf.49cdee4fbf6b123c23bb5e457b64891f.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.46121148,
+        0.47592127,
+        0.83421892,
+        0.53224456
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0177_009592_crop_margin_0-1_jpg.rf.efe85b2601ed9ee99abeffbc446ad799.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50107991,
+        0.47338867,
+        0.76889849,
+        0.58740234
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0178_010985_crop_margin_0-1_jpg.rf.ca5d1c13cae78407de33c201b0931317.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48326055,
+        0.4176,
+        0.87336245,
+        0.49706667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0178_010986_crop_margin_0-1_jpg.rf.393b46f1c9666b72a6ed0591f0587bda.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50252525,
+        0.41684435,
+        0.91414141,
+        0.51066098
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0178_011056_crop_margin_0-1_jpg.rf.79335a7ee48b81e01d3a2fb5fe3f194e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52409218,
+        0.45650439,
+        0.85125698,
+        0.54695398
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0181_009559_crop_margin_0-1_jpg.rf.54a70fd94340935cd80bdd9f69104894.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53040541,
+        0.4906428,
+        0.78885135,
+        0.56468674
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0181_009585_crop_margin_0-1_jpg.rf.e7e08f2738cb5c5535b25a9ec422d96c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50530303,
+        0.47043083,
+        0.89090909,
+        0.59191865
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0181_009597_crop_margin_0-1_jpg.rf.a2d76410c98378cc376c066fd74d0e0d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53974485,
+        0.47560375,
+        0.72031403,
+        0.53523903
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0183_011012_crop_margin_0-1_jpg.rf.e0b683326ed5af88d5f5f331cb78972f.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49871795,
+        0.48283451,
+        0.90769231,
+        0.56073944
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0183_011036_crop_margin_0-1_jpg.rf.d5d0906ad505415e5bc2dd5a41ed8b2a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49237171,
+        0.47385621,
+        0.90707351,
+        0.51960784
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0183_011060_crop_margin_0-1_jpg.rf.36ae1730b5692bb9652b7f18a96e7bc6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50212044,
+        0.46561413,
+        0.91603053,
+        0.56997592
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0184_010990_crop_margin_0-1_jpg.rf.104a7c0db3f09145163d1305bb70f798.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47745572,
+        0.45488941,
+        0.87278583,
+        0.51396973
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0184_011062_crop_margin_0-1_jpg.rf.1fb819abbf1cada2056eb6ac561150eb.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.55618777,
+        0.48300209,
+        0.79800853,
+        0.54811715
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0187_010993_crop_margin_0-1_jpg.rf.51e45da6d06ba01dc96fb3d2f13a720c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51624294,
+        0.43496387,
+        0.87853107,
+        0.5086159
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0187_010994_crop_margin_0-1_jpg.rf.63d543390a3af68d8d9fffcc88b2c8fb.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47111682,
+        0.44013491,
+        0.83953787,
+        0.51714446
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0187_011043_crop_margin_0-1_jpg.rf.de74279238dbc8c56acf520fee5b60a8.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.54106689,
+        0.47460938,
+        0.68247248,
+        0.5453125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0187_011088_crop_margin_0-1_jpg.rf.dda3de396ddf0520eb4a31a4536f277b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.4971374,
+        0.48046875,
+        0.91603053,
+        0.54589844
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0189_009562_crop_margin_0-1_jpg.rf.8443f29a6dd0bd5d0a7009f92cfbef17.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49134948,
+        0.4809221,
+        0.82179931,
+        0.59062003
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/018_0189_009575_crop_margin_0-1_jpg.rf.67d20c77e0fae15744a086883dc7b740.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.44928085,
+        0.43261719,
+        0.8985617,
+        0.57695312
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/102_018_jpg.rf.8b9c5f04b916ade5196c6535626c7ce1.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.57617188,
+        0.44384766,
+        0.49609375,
+        0.4453125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/126_005_jpg.rf.80832d49570c2883095691982513c37e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.61597222,
+        0.58359375,
+        0.65694444,
+        0.4875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/142_007_jpg.rf.79b5ec3d3eaec21a004e62a1d6e42d80.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.6225,
+        0.465625,
+        0.59166667,
+        0.5925
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/142_008_jpg.rf.50cefc82be64fedf1bbeaa3ee798eac1.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49166667,
+        0.58730469,
+        0.37430556,
+        0.40742187
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/142_010_jpg.rf.09512d8af1aabc884308f0d323bd3de7.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.66435185,
+        0.53984375,
+        0.47685185,
+        0.50104167
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/142_015_jpg.rf.93fb6a41712613d7dcc7907d3fbe6203.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.54036458,
+        0.49511719,
+        0.46875,
+        0.46777344
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/145_005_jpg.rf.4460713b36907d9b41e8a82fd7e2a113.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48055556,
+        0.52382812,
+        0.55,
+        0.40390625
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/148_008_jpg.rf.9c18f1ab217c4ef7a7bf2e9dc88e9079.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.40451389,
+        0.55957031,
+        0.51180556,
+        0.38867188
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/148_011_jpg.rf.e6154902500d2d416de8f050d2d0d19b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51166667,
+        0.450625,
+        0.49333333,
+        0.475
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/148_012_jpg.rf.1e20a6baa944f5be912ea12f7df52ea4.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52473958,
+        0.45947266,
+        0.421875,
+        0.453125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/151_001_jpg.rf.064d5cc7c47e1ef68d7b3e4aa5e2c10f.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51319444,
+        0.52265625,
+        0.53333333,
+        0.4015625
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/153_000_jpg.rf.7695f583726cf808e6d94ddfd7341d20.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.32916667,
+        0.53925781,
+        0.53194444,
+        0.33984375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/156_003_jpg.rf.a744826775e5d5ae62ec9b0a45e710bd.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.59,
+        0.445625,
+        0.46666667,
+        0.47375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/156_014_jpg.rf.8868d5fda0adf2c2f97cb60c4e12cdf0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5043573,
+        0.49509804,
+        0.38507625,
+        0.34558824
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/156_017_jpg.rf.b95dac11d18475563b36ba551a9985ae.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50626362,
+        0.4955576,
+        0.37962963,
+        0.34528186
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/162_013_jpg.rf.7f6392bc51bef523981280822d5b37e3.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48567708,
+        0.47998047,
+        0.47395833,
+        0.59472656
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/162_018_jpg.rf.b8f84e58dffcf95baf46f33eb9d4082d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53229167,
+        0.51757812,
+        0.55486111,
+        0.509375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/162_019_jpg.rf.3bde6241675d223ed2125c0df9bf3416.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49348958,
+        0.48071289,
+        0.49088542,
+        0.59326172
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/163_003_jpg.rf.9c5996075550f9de74a4534147eb52fd.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47847222,
+        0.46484375,
+        0.57291667,
+        0.50234375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/16_003_crop_margin_0-1_jpg.rf.757da4d09412f720a1061e61c663476a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49963663,
+        0.46230032,
+        0.84302326,
+        0.55527157
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038964-8663611_0_jpg.rf.bfe2b260940d8256e0f9cac46d5458b9.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.55459375,
+        0.40491667,
+        0.2523125,
+        0.529
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038965-7238147_0_jpg.rf.6a0151871e3492b1df53ae302ef622cb.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.56475,
+        0.41116667,
+        0.207,
+        0.51316667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038965-961832_0_jpg.rf.7abcb6b61c43992564e28b97db6b9b9b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.58303125,
+        0.41179167,
+        0.2154375,
+        0.51858333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038966-7459_0_jpg.rf.0391ddd942dd37f9f0a4e989a8a1460e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.57021875,
+        0.41241667,
+        0.2085625,
+        0.50733333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038967-8757124_0_jpg.rf.e203d812f8c7f2d7f3b24b6e3b2e5bfa.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.554125,
+        0.41304167,
+        0.28075,
+        0.50941667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038968-6419406_0_jpg.rf.3f62dc988323e628394657707fec79b0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.54146875,
+        0.41991667,
+        0.2760625,
+        0.50566667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038969-168799_0_jpg.rf.088176c5c5f1aa07c80b5a36c94d8138.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53740625,
+        0.41845833,
+        0.2741875,
+        0.49858333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038969-293106_0_jpg.rf.7a4a663aaf46ac77a9f5c68127f8a3c5.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53396875,
+        0.416375,
+        0.2735625,
+        0.50275
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038970-1358874_0_jpg.rf.f0377699bd74d5b183dd0e10f644414a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53646875,
+        0.41554167,
+        0.2535625,
+        0.50108333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038970-2108936_0_jpg.rf.443a40f51f32876121f448ae3a79aed5.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53975,
+        0.415125,
+        0.2445,
+        0.50858333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038972-8933957_0_jpg.rf.5fb90c2e3495667770a4975ea0c99b2b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53459375,
+        0.40908333,
+        0.2373125,
+        0.51733333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038974-3045292_0_jpg.rf.ee256cc5d1b0973f6afb71ac73eed44d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53771875,
+        0.407625,
+        0.2310625,
+        0.51025
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038975-7055948_0_jpg.rf.80a44f0d77b270704b7bfce201d5d51c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5289375,
+        0.40285417,
+        0.27003125,
+        0.52941667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038976-3355_0_jpg.rf.85d2e15a0741bec8d0876e80b922b18a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53010937,
+        0.40452083,
+        0.267375,
+        0.53052083
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038976-5011468_0_jpg.rf.733f1133ba2162bd0a0bb6b2000775d7.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52679687,
+        0.4045625,
+        0.27185938,
+        0.52233333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038976-692557_0_jpg.rf.0fc9a56fef2f672bfd08b1b7c32e6bdb.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53096875,
+        0.40352083,
+        0.2626875,
+        0.52554167
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038976-8338108_0_jpg.rf.6f7ed57e4ac9a97e86380746d00dd3fd.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52659375,
+        0.40425,
+        0.26615625,
+        0.52464583
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038977-6833303_0_jpg.rf.8c405f519cec77ce92827421430daeb0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52909375,
+        0.40502083,
+        0.26504688,
+        0.52466667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038977-8510337_0_jpg.rf.64d1eebe616f6f5a53ae985603a2b626.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52473437,
+        0.405875,
+        0.275875,
+        0.5238125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038979-383985_0_jpg.rf.97335b78a3f9c587229429e63d2fee4f.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52764062,
+        0.404125,
+        0.26648437,
+        0.5299375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038979-5193117_0_jpg.rf.2dea43ee95b34926afdd02ee471e306b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52765625,
+        0.4069375,
+        0.26920312,
+        0.52254167
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038981-8947225_0_jpg.rf.df5dcc4281ca571ebd5ce45d768cab9c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50653125,
+        0.402375,
+        0.29801563,
+        0.53425
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/1726038982-0030305_0_jpg.rf.e91e436b5e87561283de7ddf2f7c2fdb.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.504125,
+        0.40152083,
+        0.294,
+        0.53895833
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/172_015_jpg.rf.0b27e8e6668e5c6ddb14f0b0ecba9dc2.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51701389,
+        0.50527344,
+        0.47708333,
+        0.45039062
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/174_010_jpg.rf.abc6df206825b89c02d1fbab3fc9ae1a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51296296,
+        0.46158854,
+        0.52592593,
+        0.54817708
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/174_016_jpg.rf.af870b7dfe1c4fad7979181a2ef6a9ec.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51529948,
+        0.46508789,
+        0.64257812,
+        0.55908203
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/174_019_jpg.rf.35171aec8d58b13f4611641b0e764fcd.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5218099,
+        0.46533203,
+        0.44075521,
+        0.56494141
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/177_007_jpg.rf.82faf53a2f21672105aa7b8b8ff984cc.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.44305556,
+        0.4546875,
+        0.68402778,
+        0.52304688
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/178_013_jpg.rf.6670ec5fae0ffcabc7f1f588320fcd7b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51041667,
+        0.48193359,
+        0.44661458,
+        0.57714844
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/17_004_jpg.rf.c89ebdf1bad2e1b6283ae69276b97d43.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.65585938,
+        0.67777778,
+        0.21015625,
+        0.64166667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/17_005_jpg.rf.620198f222e7fe8f47120b58fb1eb7f6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49335937,
+        0.62847222,
+        0.19765625,
+        0.60694444
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/183_010_jpg.rf.863a1c5b48077e7dba6f9da2278af11b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.46759259,
+        0.39661458,
+        0.62685185,
+        0.46354167
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/183_011_jpg.rf.b8c28cb6160e93ea889b584cefec5292.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48148148,
+        0.64010417,
+        0.39351852,
+        0.3484375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/187_015_jpg.rf.1e83f8bdad8599517dca603df3da40c4.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.478125,
+        0.52109375,
+        0.69097222,
+        0.50703125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/18_009_crop_margin_0-1_jpg.rf.d0a31d4ba2b9e0f004f5bc1082d3a70f.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47668394,
+        0.45991984,
+        0.85492228,
+        0.5511022
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/20231008_221822_jpg.rf.74810be7e9ea8114f40d7d7d06409fa6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48255479,
+        0.53016869,
+        0.83823529,
+        0.61699827
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/20231008_221824_jpg.rf.03bf3d1f3530f21d5464344249cfc56a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47202999,
+        0.54173875,
+        0.80276817,
+        0.60596886
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/20231008_221833_jpg.rf.659906bf988a435f6ab597a4a7d71326.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52436563,
+        0.49740484,
+        0.83708189,
+        0.63192042
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/20231008_221835_jpg.rf.a12cb8a58e3ab920e90bc3bcd35446d7.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50562284,
+        0.48561851,
+        0.83823529,
+        0.64381488
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/20231008_221848_jpg.rf.5abd52a8cd66ccc890496433e26d7bc5.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50331603,
+        0.5429282,
+        0.61101499,
+        0.58888408
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/20231008_221850_jpg.rf.531975d36a81c6a980945a4efb551f4e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48745675,
+        0.54260381,
+        0.6577278,
+        0.59256055
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/20231008_221854_jpg.rf.36c4f09c3d09447d79c79849fe589601.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.58506344,
+        0.55741782,
+        0.57785467,
+        0.64035467
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/20231008_221910_jpg.rf.caec7607bf8e863c6820c980de015f1f.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49711649,
+        0.52303201,
+        0.73356401,
+        0.63862457
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/20231008_224204_jpg.rf.671e1083a58909239a00ae23145bd30d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49048442906574397,
+        0.47837370242214533,
+        0.8170415224913494,
+        0.7064590542099193
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/20231008_224205_jpg.rf.df16f0ea6fd6be30abf77d56ef5d4063.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5220588235294118,
+        0.49740484429065746,
+        0.8170415224913494,
+        0.7156862745098039
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/20231008_224209_jpg.rf.ae11a5f1b842817868491fbb2b169695.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5477941176470589,
+        0.5230680507497116,
+        0.8447231833910035,
+        0.6066897347174164
+      ]
+    ],
+    "note": "manually_reviewed_or_corrected"
+  },
+  "images/train/20231008_224216_jpg.rf.f327269ebe2676f752c953fcd5519f4a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5570934256055363,
+        0.5309976931949251,
+        0.7984429065743944,
+        0.6513840830449827
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/20250228_134019_jpg.rf.3ead71df30d89330e37b18815ea25c19.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.344875,
+        0.5288888888888889,
+        0.30225,
+        0.5711111111111111
+      ]
+    ],
+    "note": "manually_reviewed_or_corrected"
+  },
+  "images/train/20250228_134034_jpg.rf.285fc5ae87c6d825a798cc55843d1cb2.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.404625,
+        0.43666666666666665,
+        0.36875,
+        0.35555555555555557
+      ]
+    ],
+    "note": "manually_reviewed_or_corrected"
+  },
+  "images/train/20250228_135021_jpg.rf.1aa2c4f0c37c6112cd820209226abe18.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.452375,
+        0.6397222222222222,
+        0.31425,
+        0.38722222222222225
+      ]
+    ],
+    "note": "manually_reviewed_or_corrected"
+  },
+  "images/train/20250228_135031_jpg.rf.115100b68ef8f30e34ac47d93190bdc6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.385125,
+        0.5616666666666666,
+        0.40475,
+        0.5188888888888888
+      ]
+    ],
+    "note": "manually_reviewed_or_corrected"
+  },
+  "images/train/20250228_135108_jpg.rf.d1f34ad3da48cf3daeb0d9de0c4f2fa2.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.41325,
+        0.4922222222222222,
+        0.3735,
+        0.5888888888888889
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/21_010_jpg.rf.894a6cbf3219747689e8caf732b1122f.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.56805556,
+        0.50878906,
+        0.55625,
+        0.51445312
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/21_011_jpg.rf.8b255ea7332def2396228d7cbc79e27e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.38291667,
+        0.469375,
+        0.44083333,
+        0.539375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/21_016_jpg.rf.6bf11b233df59d80a8bba69eb8882a18.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.42256944,
+        0.50566406,
+        0.63958333,
+        0.49335937
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/22_007_jpg.rf.77e72dee2fb29b3894f18b32adb3c656.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.44375,
+        0.51210937,
+        0.59305556,
+        0.4953125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/23_jpeg.rf.6925f6ecff31f5881a363232b5701eb3.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.485,
+        0.51,
+        0.278,
+        0.94
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/25_000_jpg.rf.7292edd93903679f37526d95fa908f77.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53333333,
+        0.55026042,
+        0.44861111,
+        0.36927083
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/25_005_jpg.rf.712a94754a75116cbccdffc5fd716bfa.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52777778,
+        0.55130208,
+        0.44444444,
+        0.3734375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/27_011_jpg.rf.85e2e65fc9f810e178926cf8d96f7142.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.4225,
+        0.4478125,
+        0.4475,
+        0.465
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/27_014_jpg.rf.68d013bf330836e72f53970ef95f412e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.42625,
+        0.44875,
+        0.37916667,
+        0.47125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/28_000_jpg.rf.3f8842695efa4bbecf7c7c89499b6fc4.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49236111,
+        0.5390625,
+        0.57083333,
+        0.35833333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/31_jpg.rf.926797e59481e62dc18a84761055d8b4.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51209677,
+        0.55443548,
+        0.41666667,
+        0.88306452
+      ],
+      [
+        0.81989247,
+        0.57459677,
+        0.29569892,
+        0.84274194
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/33_009_jpg.rf.b581c0675f7355953143cf13552e1281.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53611111,
+        0.47851562,
+        0.7125,
+        0.41796875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/33_012_jpg.rf.a0baa3c29680c628107b1ce81a15903c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51875,
+        0.4828125,
+        0.54305556,
+        0.4171875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/33_013_jpg.rf.2fdef2a00590d95c6a4e04215613808f.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.42666667,
+        0.4478125,
+        0.415,
+        0.451875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/33_jpg.rf.8cce9d6729b8f55c1495002e269b3b96.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50527778,
+        0.436125,
+        0.61388889,
+        0.85175
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/37_002_jpg.rf.bd9a97a341beb30517acb7aa3cac1f6a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.57175926,
+        0.47552083,
+        0.475,
+        0.428125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/37_003_jpg.rf.1b2c5b9d693cff23bcc14f347f737d1c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53541667,
+        0.60585937,
+        0.47638889,
+        0.375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/37_005_jpg.rf.830e6ca185dcb32b64e7199935b9b1c6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.56203704,
+        0.47838542,
+        0.53703704,
+        0.46510417
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/37_007_jpg.rf.6ee8e9affdc334cbbe5cc30770cbfc69.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48502179,
+        0.48606005,
+        0.65958606,
+        0.45067402
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/40_000_jpg.rf.53f2749a816fb359701007bb408c8384.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53611111,
+        0.55442708,
+        0.46481481,
+        0.37447917
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/42_006_jpg.rf.3fca65cb5fae3e45d73045e04cccda8b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50902778,
+        0.58554688,
+        0.47222222,
+        0.43203125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/45_014_jpg.rf.6fbc8f2897ce20ada728397c468a36c6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.37791667,
+        0.4559375,
+        0.41166667,
+        0.490625
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/45_017_jpg.rf.ae47017cd8ab4c14f88b9d94e207478a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.38625,
+        0.45125,
+        0.56833333,
+        0.48375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/47_jpg.rf.fb380bd981b773cfde1261be62ef6f76.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.3985,
+        0.40805555555555556,
+        0.4735,
+        0.5938888888888889
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/49_011_jpg.rf.140f43e373df08a50f1ac97432da4fc1.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.3325,
+        0.465,
+        0.42166667,
+        0.5025
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/50_jpg.rf.d6ff99b142cb0989a297de0e13c28931.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.337875,
+        0.29777777777777775,
+        0.32725,
+        0.40444444444444444
+      ],
+      [
+        0.397625,
+        0.6972222222222222,
+        0.28275,
+        0.31777777777777777
+      ]
+    ],
+    "note": "manually_reviewed_or_corrected"
+  },
+  "images/train/52_008_jpg.rf.47e15df0819c03c4c17081e0909a43a4.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.55092593,
+        0.54869792,
+        0.57685185,
+        0.49010417
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/57_001_jpg.rf.d5207d84ce4047fa937bdd60be6e6f44.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.42916667,
+        0.56328125,
+        0.41388889,
+        0.42578125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/57_003_jpg.rf.1491579e4293e798520a0ebd6b0e4131.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.55486111,
+        0.56855469,
+        0.47986111,
+        0.48828125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/57_009_jpg.rf.69056a3a9e67f1fbf192e567b16ea421.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51157407,
+        0.57526042,
+        0.47222222,
+        0.41354167
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/58_003_jpg.rf.4b3d690ff1b51f4dd64b2016be377d45.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.57407407,
+        0.54375,
+        0.55,
+        0.46927083
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/58_004_jpg.rf.9c95fba38f16d49b133b78b4ebe2d1f7.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.43611111,
+        0.55859375,
+        0.49444444,
+        0.4140625
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/60_005_jpg.rf.b0c50a6c9ece9100d8bcba87a5907ebf.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.44861111,
+        0.51367188,
+        0.64305556,
+        0.43515625
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/60_009_jpg.rf.75797c7a99b929664d42fba960c9a59e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.40972222,
+        0.51601562,
+        0.4875,
+        0.43515625
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/61_005_jpg.rf.b8e6c8acad8810e0321b051d0bf28c89.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.45555556,
+        0.48789063,
+        0.6375,
+        0.5734375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/67_005_jpg.rf.db4d13ef8bdca0d2238bccdc8110f7a5.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.67314815,
+        0.5046875,
+        0.58518519,
+        0.50520833
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/67_008_jpg.rf.eef0be50ef46139448f5f738efe91ad2.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.38671875,
+        0.48242188,
+        0.40104167,
+        0.51757812
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/70_002_jpg.rf.ec4a92212643097ca09ebddf2d5044ee.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.44666667,
+        0.47,
+        0.475,
+        0.53375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/72_001_jpg.rf.1fe0e00485b032a3e59dff8f3fc63c5a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48287037,
+        0.47864583,
+        0.48055556,
+        0.47291667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/72_004_jpg.rf.2c4fea990be2c21756755e9588e88aef.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5577342,
+        0.53982843,
+        0.75054466,
+        0.4966299
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/72_008_jpg.rf.e94b95eb97b77e92e009638cfc14794b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52314815,
+        0.54534314,
+        0.56808279,
+        0.48897059
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/73_001_jpg.rf.4ead373208743d04bcdb8f97b53f1aa5.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.39027778,
+        0.49479167,
+        0.53796296,
+        0.50520833
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/73_005_jpg.rf.521f0ba1e3b3e8aee9e08e445a2c494b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47086057,
+        0.53722426,
+        0.36437908,
+        0.44393382
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/73_008_jpg.rf.bc726e7efdb5cb0ab2cbfa81cb81bdfa.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.45179739,
+        0.53783701,
+        0.46949891,
+        0.45006127
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/75_004_jpg.rf.ebd0e6cb50f9d113a103952556db2f3c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.60925926,
+        0.44609375,
+        0.58425926,
+        0.4921875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/78_002_jpg.rf.5229d63886f04d044092937f1345bcfc.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.43191721,
+        0.53339461,
+        0.50544662,
+        0.45067402
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/78_003_jpg.rf.2ad4d55995b18b9debbda926810a366e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5125,
+        0.44401042,
+        0.4287037,
+        0.50416667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/78_006_jpg.rf.30b55be1cde846e4d9974c1b64fef032.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51342593,
+        0.44322917,
+        0.68611111,
+        0.50677083
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/79_000_jpg.rf.e31c581f79e9a0bde525396231bd67a1.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.54351852,
+        0.45598958,
+        0.54814815,
+        0.50520833
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/79_006_jpg.rf.45a864d84c103e0a24922d20d75c3cf2.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.54351852,
+        0.45,
+        0.51574074,
+        0.49479167
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/81_003_jpg.rf.750c60bcb4d4464e57416a25b08cae4f.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48311547,
+        0.53431373,
+        0.48583878,
+        0.44117647
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/81_006_jpg.rf.96069b52299b398ffe41165170a3b1a8.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.55416667,
+        0.44479167,
+        0.54166667,
+        0.4921875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/82_002_jpg.rf.7216b2e99a5be6e8c19501ad66957963.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.39166667,
+        0.45875,
+        0.45833333,
+        0.5075
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/84_002_jpg.rf.4dee697dd498b909fd9c80dc35b78f5b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.28710938,
+        0.4765625,
+        0.39453125,
+        0.47070312
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/85_001_jpg.rf.7f08fb6b6634c1081b4dec0c5482bbca.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.44166667,
+        0.490625,
+        0.50740741,
+        0.49375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/85_005_jpg.rf.c6f941bdd87e7692fc26e0c1867d40d0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.46944444,
+        0.48880208,
+        0.51296296,
+        0.4953125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/88_002_jpg.rf.41f08a2f9dbe873030e70fbcecfa549c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.56454248,
+        0.54610907,
+        0.49346405,
+        0.44515931
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/91_010_jpg.rf.3f9ee05027fc5dcc2705217aaaa4485a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.4575,
+        0.453125,
+        0.55,
+        0.52625
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/93_000_jpg.rf.9ab95fc8245cc8392118bafd7c4aea2d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.46160131,
+        0.53308824,
+        0.52777778,
+        0.42034314
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/94_002_jpg.rf.a8d5a4776384a1e55cd44a01553f00f9.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51416667,
+        0.455,
+        0.43666667,
+        0.51625
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/94_002_jpg.rf.b3637acfec5a15df4963dd64e6776ef9.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47086057,
+        0.53829657,
+        0.52233115,
+        0.43811275
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/CoatGoggle3_jpg.rf.d4fe8461952345958ebd1bf6d0376f5e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.54947917,
+        0.68652344,
+        0.75520833,
+        0.62695312
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/CoatGoggle4_jpg.rf.8f20dfaece74b52671cf8b8680ff4d62.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49869792,
+        0.67856401,
+        0.9453125,
+        0.64287197
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260204_164020_-_jpg.rf.8efb367af5641ed7b31302c6381562f1.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.575,
+        0.690625,
+        0.284375,
+        0.61458333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260204_164837_-_jpg.rf.c1becb12b5e2bda4e8db512b2065c1b2.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.8828125,
+        0.69791667,
+        0.23125,
+        0.6
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260204_164924_-_jpg.rf.d9b6ecce054f9fb337ba4ce99edbb7c2.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.43984375,
+        0.66145833,
+        0.2671875,
+        0.67291667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260205_133127_-_jpg.rf.8adebb915a72c83937870db828140ea8.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.28125,
+        0.684375,
+        0.5625,
+        0.62708333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260205_133857_-_jpg.rf.515010df8340a7d9d03583de672c09bd.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.55625,
+        0.71354167,
+        0.25625,
+        0.56875
+      ],
+      [
+        0.8921875,
+        0.74166667,
+        0.2125,
+        0.5125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260205_135118_-_jpg.rf.a7233a2eb10ad1f7f7a984d95610bb8b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.284375,
+        0.678125,
+        0.275,
+        0.56458333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260205_135234_-_jpg.rf.313c22bbe2a91528623445d7706eb071.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.86015625,
+        0.69895833,
+        0.2765625,
+        0.59791667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260205_140700_-_jpg.rf.a1bdab30fb739664489fbfff48136b60.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50234375,
+        0.65520833,
+        0.1953125,
+        0.68541667
+      ],
+      [
+        0.6296875,
+        0.828125,
+        0.334375,
+        0.33958333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260205_141618_-_jpg.rf.33b860b3a2328f06d463aad0eab580c9.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.77421875,
+        0.721875,
+        0.2328125,
+        0.55208333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260205_143016_-_jpg.rf.b7f870b5ceb8ae033d4f31f0902d1ef5.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.8703125,
+        0.62604167,
+        0.25625,
+        0.74375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260205_143402_-_jpg.rf.a1e1b1b737065dba326b238419a24088.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5765625,
+        0.74583333,
+        0.309375,
+        0.50416667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260205_144559_-_jpg.rf.14a3efc35e1dc5c0c1d1e134f726f18a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.7171875,
+        0.65833333,
+        0.303125,
+        0.67916667
+      ],
+      [
+        0.87578125,
+        0.40123958,
+        0.2453125,
+        0.54414583
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260205_145224_-_jpg.rf.8b99d5ca462e5330a08ee8d86d88927e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.578125,
+        0.73854167,
+        0.246875,
+        0.51875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260205_145452_-_jpg.rf.c153ff41bba702cfe8cf33c0df4fba0d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.45078125,
+        0.6875,
+        0.3484375,
+        0.62083333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260205_151940_-_jpg.rf.fbd9dcfec6ad7a50c7794c55065b7886.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.82578125,
+        0.63645833,
+        0.3265625,
+        0.72291667
+      ],
+      [
+        0.9359375,
+        0.38229167,
+        0.125,
+        0.58125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260205_153116_-_jpg.rf.920988f84f638067c16c26891290c78e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.23125,
+        0.65,
+        0.353125,
+        0.625
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260205_153721_-_jpg.rf.c8ff4345247185ce3b70a32daff1d8fa.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.865625,
+        0.58645833,
+        0.265625,
+        0.77291667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260205_153731_-_jpg.rf.5fd59454bc2cff78a37fc59225e03d40.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5625,
+        0.64895833,
+        0.31875,
+        0.69791667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260205_153941_-_jpg.rf.457cbdb139dec91c6acc1b2fc95f205b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.83125,
+        0.67604167,
+        0.334375,
+        0.64375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260205_155406_-_jpg.rf.753a037666f873a7504fe93d2307998e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.8171875,
+        0.65104167,
+        0.328125,
+        0.69375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_140558_-_jpg.rf.656b67fa8e8865f2bf414bbb16259712.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.2703125,
+        0.659375,
+        0.321875,
+        0.66875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_140623_-_jpg.rf.e8cd299d34180e2814288a1c3b9f2acf.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.83125,
+        0.58645833,
+        0.30625,
+        0.82291667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_140654_-_jpg.rf.389b3a75c4f50797843937e8a917769f.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.23515625,
+        0.66145833,
+        0.3703125,
+        0.62291667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_142349_-_jpg.rf.613b3a6a48a5d0551ea66426d8cc3c4c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.890625,
+        0.5625,
+        0.215625,
+        0.7375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_143114_-_jpg.rf.f78241f539bf5a9661dfe071d0a182b0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.696875,
+        0.675,
+        0.45625,
+        0.64583333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_143147_-_jpg.rf.3815f0fadc119123208b57c0053e9cb2.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.46328125,
+        0.66458333,
+        0.3328125,
+        0.66666667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_144959_-_jpg.rf.933e40fff5b497394fcf76965720cfbd.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.8625,
+        0.671875,
+        0.25,
+        0.65208333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_150556_-_jpg.rf.aecafde02fec4c9bcdeca1ac22481244.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.88515625,
+        0.70416667,
+        0.2265625,
+        0.5875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_151820_-_jpg.rf.63ffac1a58224386a36309bf3a8202fa.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.3484375,
+        0.70104167,
+        0.309375,
+        0.59375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_151938_-_jpg.rf.4d6ccfb3f104ed8a78c60d044913d832.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.6265625,
+        0.74791667,
+        0.21875,
+        0.5
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_152201_-_jpg.rf.9021f81f93e91b457edbefa3d47e5595.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.721875,
+        0.690625,
+        0.2625,
+        0.61458333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_153050_-_jpg.rf.927c0ef930917733fd3cb8892090fce2.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.7625,
+        0.71875,
+        0.228125,
+        0.55833333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_164153_-_jpg.rf.2fca065827a9043fe002850b95c1486d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.2859375,
+        0.73645833,
+        0.284375,
+        0.51041667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_165751_-_jpg.rf.c55e16f25bede489fb046650f4a9b23c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.8328125,
+        0.58255833,
+        0.33125,
+        0.66095
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_170212_-_jpg.rf.7c8449b0222d108fa363e1e3725ead40.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5203125,
+        0.7375,
+        0.234375,
+        0.52083333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_170337_-_jpg.rf.bf7f702c543f993a5df8adfb9c66b293.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.88359375,
+        0.73854167,
+        0.2296875,
+        0.51875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_170742_-_jpg.rf.2dc5a1006d96538a3cd35fb6b525b4aa.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.8203125,
+        0.6125,
+        0.35625,
+        0.77083333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_171159_-_jpg.rf.6b3233c16bf53db9c77601aff0b08986.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.61640625,
+        0.753125,
+        0.2609375,
+        0.48958333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_172414_-_jpg.rf.086401a8e46dca17455037c001dd28eb.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.7390625,
+        0.67083333,
+        0.4,
+        0.65416667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_180154_-_jpg.rf.74014ca3c237ae4f36598cf773cfa3f1.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5765625,
+        0.69166667,
+        0.215625,
+        0.6125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_180705_-_jpg.rf.be68383c8f49f036c91ea6f76e535c60.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.76015625,
+        0.75416667,
+        0.2359375,
+        0.4875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_181159_-_jpg.rf.2c4dfc7c588f927932d222784dc309ee.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.775,
+        0.69895833,
+        0.3375,
+        0.59791667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_181510_-_jpg.rf.947e8ee7980c7b31bdaae5882de4fc9b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.24453125,
+        0.66354167,
+        0.2765625,
+        0.54791667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_191302_-_jpg.rf.74333f345246c67ed3dac679832e586e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.84765625,
+        0.646875,
+        0.3015625,
+        0.70208333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_191424_-_jpg.rf.2e5117dc15ba0332b68211e116ab63c6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.35112812,
+        0.70729167,
+        0.3265625,
+        0.58125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260312_195303_-_jpg.rf.c37270ba75d6a3ee43a3173cfba88b17.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53671875,
+        0.6875,
+        0.2421875,
+        0.62083333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260319_123923_-_jpg.rf.e012ad966bdb636bd7a68b32e0e4815e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.23828125,
+        0.70520833,
+        0.3046875,
+        0.53958333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260319_123933_-_jpg.rf.1a7d70320c3fbcf523e9c1a4fa9c3045.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48359375,
+        0.7375,
+        0.2828125,
+        0.52083333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260319_123952_-_jpg.rf.18d9afae0161634212b3fd960ec33785.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.64010469,
+        0.74375,
+        0.309375,
+        0.50833333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260319_141557_-_jpg.rf.79352d60676f1357628b55a7583c2f50.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.91171875,
+        0.47772083,
+        0.1734375,
+        0.626275
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260319_141654_-_jpg.rf.d546bbd1d7d666157593d89b2062df8e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.67109375,
+        0.75208333,
+        0.2671875,
+        0.49166667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260319_143259_-_jpg.rf.5dc7fb818146ad1b12e5ea3c60484201.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.6296875,
+        0.74166667,
+        0.20625,
+        0.5125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260320_110433_-_jpg.rf.a9976e0f7cbc6263e734e0c35d579e35.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.66328125,
+        0.73125,
+        0.4296875,
+        0.53333333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260320_114108_-_jpg.rf.c3062e920aa80d13ddc9af855cd2a042.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.14453125,
+        0.58958333,
+        0.2796875,
+        0.575
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260320_123000_-_jpg.rf.13f60e2c18ac62361cfb6b03c82e7a01.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.7578125,
+        0.68333333,
+        0.36875,
+        0.62916667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260320_131901_-_jpg.rf.bf9d178472b3eec229f2f37289f932cf.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.18984375,
+        0.61740417,
+        0.2359375,
+        0.50980833
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260320_151150_-_jpg.rf.5fb525baffbe429f50afb8c6afce09b6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.4390625,
+        0.653125,
+        0.24375,
+        0.68958333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260320_153420_-_jpg.rf.17611e99846251f9b814e2b83802a681.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.8859375,
+        0.615625,
+        0.225,
+        0.76458333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260320_162623_-_jpg.rf.38e867d4235868414e3029001fe67714.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.72109375,
+        0.70833333,
+        0.2703125,
+        0.57916667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260320_172545_-_jpg.rf.63c1c85e12f0f505d71ed4a81e154661.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.22109375,
+        0.66979167,
+        0.2578125,
+        0.56041667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260320_174528_-_jpg.rf.199b2cab0cd9279a7101b3e38fcf324b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.1734375,
+        0.65208333,
+        0.346875,
+        0.5875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260320_180137_-_jpg.rf.b97c1cbde4e913b61d6a31ca5f97f927.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.69296875,
+        0.65729167,
+        0.3359375,
+        0.68125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260401_114228_-_jpg.rf.b34d8cf77cbf9ab26bdc72670cb9c890.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.74296875,
+        0.67604167,
+        0.3453125,
+        0.64375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260401_114328_-_jpg.rf.abc32faf9fe7607475b1dc2e639765b6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.8875,
+        0.49288229,
+        0.221875,
+        0.61261458
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260401_114546_-_jpg.rf.2e7ded07bb7001eff67f8776f332a7f5.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.86484375,
+        0.67708333,
+        0.2671875,
+        0.64166667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260401_121002_-_jpg.rf.8aecea2e7c0a0b36e743ebdf941489fb.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5890625,
+        0.75208333,
+        0.328125,
+        0.49166667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260401_121013_-_jpg.rf.39e14896cb9dc3988dc9ced16fa6d35a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5328125,
+        0.825,
+        0.3125,
+        0.34583333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260401_121023_-_jpg.rf.ecdfce7639cd0421d87f2263b99bfee4.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.4109375,
+        0.78854167,
+        0.390625,
+        0.41875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260401_121138_-_jpg.rf.00fdde629f218dea5262a0488ed7d6ba.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.14140625,
+        0.65729167,
+        0.2828125,
+        0.49791667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260401_125044_-_jpg.rf.b3dbb22672ee12134b532181e0edf20d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.86953125,
+        0.54495104,
+        0.2578125,
+        0.65656875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260401_125445_-_jpg.rf.e30d7f26a77640846af162dd4265d326.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.12734375,
+        0.615625,
+        0.2546875,
+        0.53541667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260401_130316_-_jpg.rf.a18257e8f23d1afff4cca2672676cfe3.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.86796875,
+        0.61458333,
+        0.2609375,
+        0.76666667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260401_141206_-_jpg.rf.6d55dd69167948459a758befb141744d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.2828125,
+        0.646875,
+        0.33125,
+        0.68125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260401_155847_-_jpg.rf.64f2d16ed910267cdea09de3a78d2bef.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.33125,
+        0.696875,
+        0.296875,
+        0.60208333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260401_162113_-_jpg.rf.f169a5456db6abd1540a2d23fa789174.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.1765625,
+        0.60729167,
+        0.315625,
+        0.61875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_151158_-_jpg.rf.f864bce6a92db1641cafa70b3c5575b4.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.89609375,
+        0.61770833,
+        0.2046875,
+        0.76041667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_153059_-_jpg.rf.76031d7d385117d0e721b1a162be963e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.88671875,
+        0.54135833,
+        0.2234375,
+        0.71188333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_155158_-_jpg.rf.4dc4ca086ae6687aaaac72714db7b7ab.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.859375,
+        0.59435625,
+        0.278125,
+        0.7262125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_161649_-_jpg.rf.ed8d39dadcc223fca7e2cfdedd470890.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.8984375,
+        0.45619583,
+        0.2,
+        0.64155833
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_161900_-_jpg.rf.ffbbd41ee17fe47cafc914a81c89b3b6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.82734375,
+        0.71666667,
+        0.3421875,
+        0.5625
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_163143_-_jpg.rf.cd595f5d753b911f6161fbff14e0bc7b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.75859375,
+        0.71041667,
+        0.2453125,
+        0.575
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_164304_-_jpg.rf.6e463a8a1b5ea8dbdd3521e891dcd7f8.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48828125,
+        0.68645833,
+        0.3671875,
+        0.62291667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_164431_-_jpg.rf.463dcdfb14c9fa9684c89117968015c3.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.85234375,
+        0.55833333,
+        0.2921875,
+        0.87916667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_164900_-_jpg.rf.23332dfb89072926630f86eef0bee9ca.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.8921875,
+        0.68020833,
+        0.2125,
+        0.63541667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_165518_-_jpg.rf.cc47c57beb0ce454776ac9c9fb71faac.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.75234375,
+        0.646875,
+        0.4265625,
+        0.70208333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_171101_-_jpg.rf.75e07c3986bd95973c368b437cc00e50.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.165625,
+        0.62916667,
+        0.275,
+        0.54166667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_171454_-_jpg.rf.ceb6c78903b8fa254b8bfd4d77b048f2.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.59765625,
+        0.653125,
+        0.1921875,
+        0.68958333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_171556_-_jpg.rf.317decb05795601b2f8c945237c4f109.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.81484375,
+        0.65833333,
+        0.3671875,
+        0.67083333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_172137_-_jpg.rf.f33715cd3877496e0ad7c3b27c5244eb.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.9109375,
+        0.67395833,
+        0.175,
+        0.64791667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_172615_-_jpg.rf.b0e025f1023aaf289ea6580199d8427e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.85078125,
+        0.62395833,
+        0.2640625,
+        0.74791667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_175010_-_jpg.rf.2c02f2aefaed2b6a18d6a25519571706.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.8078125,
+        0.55833333,
+        0.20625,
+        0.70416667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_180253_-_jpg.rf.a4221593bb20b83ecdd984b74e2c2e1b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.84609375,
+        0.609375,
+        0.3046875,
+        0.77708333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_185953_-_jpg.rf.fbcbed2365cb4718535d9d5d02bd9532.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.85859375,
+        0.70520833,
+        0.2796875,
+        0.58541667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/detect_20260408_190313_-_jpg.rf.562013523c23d1d523dd51f1e26e6ad1.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.83984375,
+        0.528125,
+        0.3171875,
+        0.59791667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/download_jpeg.rf.f5441f30deb3e1caea47b98012d68033.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50452229,
+        0.62542056,
+        0.92859873,
+        0.74912773
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/Dr_-Gulati-Hospital-Inspector-Checking-_-The-Kapil-Sharma-Show-_Such-Intelligence_mp4-33_jpg.rf.327a97d27b2108c3a69e4983f96eb1bc.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.543359375,
+        0.4465277777777778,
+        0.01953125,
+        0.05416666666666667
+      ],
+      [
+        0.6671875,
+        0.44722222222222224,
+        0.0234375,
+        0.05555555555555555
+      ]
+    ],
+    "note": "manually_reviewed_or_corrected"
+  },
+  "images/train/Dr_-Gulati-Hospital-Inspector-Checking-_-The-Kapil-Sharma-Show-_Such-Intelligence_mp4-41_jpg.rf.f93861f5ab00944426c74473be8db711.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47949219,
+        0.45226389,
+        0.02734375,
+        0.05034722
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/Dr_-Gulati-Hospital-Inspector-Checking-_-The-Kapil-Sharma-Show-_Such-Intelligence_mp4-70_jpg.rf.eb0b7cb24750a7d70afff59e05e9ef44.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.35791406,
+        0.454,
+        0.12597656,
+        0.32465278
+      ],
+      [
+        0.55761719,
+        0.47395833,
+        0.14257812,
+        0.34027778
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/frame_0125_png.rf.41e24b8e46f89d706eeaac61bb3b15a3.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.38590104,
+        0.58436111,
+        0.55652604,
+        0.83127778
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/frame_0140_png.rf.c34c0a28f697e51c4b32a9a4754c22b0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.45142188,
+        0.57201852,
+        0.73096875,
+        0.85596296
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/frame_0200_png.rf.fb0824764e716670b49dcee2524f8d14.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.62778125,
+        0.5,
+        0.42222396,
+        1.0
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/frame_0225_png.rf.fa85ee0af4e2f0d679fa5ddba12b9a03.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.60896875,
+        0.53801852,
+        0.56167708,
+        0.82810185
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/frame_0280_png.rf.73456da0232f246d6053a610faea0b83.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.57381771,
+        0.50227778,
+        0.47576042,
+        0.99427778
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/frame_0315_png.rf.0b8a85cea6a0cb34b675c1b78b837630.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.59176042,
+        0.59285185,
+        0.44219792,
+        0.8142963
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/frame_0425_png.rf.4f56aea5b3c4a32c087b350ed3e6b184.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.658,
+        0.51337037,
+        0.63023958,
+        0.97325
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/frame_0465_png.rf.431577c70d913395c708fef8d4202530.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.64165625,
+        0.51260185,
+        0.63630729,
+        0.9747963
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/gettyimages-145062534-612x612_jpg.rf.68f10e08df3d1b28308e69a0cd8f98ed.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.70151961,
+        0.66747549,
+        0.38125817,
+        0.66502451
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/gettyimages-157619202-612x612_jpg.rf.4ea0d30273eba0e32f39359221f467d8.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51838235,
+        0.39052288,
+        0.54656863,
+        0.51633987
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/gettyimages-200389535-001-612x612_jpg.rf.c79ba2e200a06a58c73340144209057d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5,
+        0.42401961,
+        0.67156863,
+        0.50163399
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/gettyimages-482631083-612x612_jpg.rf.4a74859febcb4b4d5185f2a2050d9c98.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.57897059,
+        0.66625899,
+        0.44334967,
+        0.66745803
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/gettyimages-529400729-612x612_jpg.rf.6c777cbc7651c04a8e8aa09389839b4a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.45312092,
+        0.69213508,
+        0.36576797,
+        0.5664488
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/gettyimages-534009230-612x612_jpg.rf.82bbd9466725bc3d6055ecfb397af326.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53321895,
+        0.70261642,
+        0.51089869,
+        0.59476716
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/gettyimages-77369007-612x612_jpg.rf.e83a5162d91d00183934c432703dd13a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.46811224,
+        0.43627451,
+        0.47704082,
+        0.46405229
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/gettyimages-866799478-612x612_jpg.rf.8ae8ab4ba3e2f439d5e56c2f0ac56496.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.63562092,
+        0.6928125,
+        0.37145425,
+        0.614375
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/gettyimages-98324981-612x612_jpg.rf.bd91bbe873006c97d869c0b8e7ae507b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.60122699,
+        0.63398693,
+        0.47852761,
+        0.73202614
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/images-2-_jpeg.rf.526ba6e09f356defb1c4fccac7142b18.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5572,
+        0.5136,
+        0.54813333,
+        0.89546667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/istockphoto-1011795536-612x612_jpg.rf.7eb41af4886da0b821717777ba74f011.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.61982026,
+        0.66502451,
+        0.46187908,
+        0.59803922
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/istockphoto-1080234754-612x612_jpg.rf.4012be95a5f59b4aa88ed3969e41879e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.64596405,
+        0.74835784,
+        0.35294118,
+        0.5032598
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/istockphoto-1132087010-612x612_jpg.rf.bea82a7cc77d73616d0d3afc0f521ae0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.65903595,
+        0.68382353,
+        0.52504902,
+        0.55066176
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/istockphoto-1191621143-612x612_jpg.rf.2360a8d0415575a39b7c2bf209ec2126.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50735294,
+        0.46568627,
+        0.55882353,
+        0.5620915
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/istockphoto-1200947761-612x612_jpg.rf.7168f33536dbda5897ed1aa093443e98.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.60294118,
+        0.75164216,
+        0.43681373,
+        0.48039216
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/istockphoto-941169950-612x612_jpg.rf.e76059a691bd1c70a59ddbe8c4e277cb.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.55333333,
+        0.49019608,
+        0.67555556,
+        0.69607843
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/KakaoTalk_20240321_043006418_17_jpg.rf.2d5ed7c1f5c3e679a1fd1843ac6a3dc9.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48958333,
+        0.65234375,
+        0.68229167,
+        0.6953125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/KakaoTalk_20240321_043006418_22_jpg.rf.933d54e0b16cb833d727fbbdc914b7e0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52213542,
+        0.64208984,
+        0.65364583,
+        0.71386719
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/Lab_coat_10_jpg.rf.c889c12ccb346356b2dafa4ea032563a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50455561,
+        0.50146484,
+        0.64927312,
+        0.86230469
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/Lab_coat_12_jpg.rf.751fdbf220fe994e41ffecf4908924c0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52683679,
+        0.30126953,
+        0.4784089,
+        0.60253906
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/labcoat-83766f6f-9bf9-11ed-8665-302432be1431_jpg.rf.7c566fd78a715ea958d8808807a97be2.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51247189,
+        0.38541667,
+        0.39994377,
+        0.77083333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/labcoat-ae4516d2-9c0f-11ed-82f0-302432be1431_jpg.rf.c7a48d7d76ba08912f1e5e73fb943b70.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.54861516,
+        0.44389005,
+        0.39587304,
+        0.84109438
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC11_jpg.rf.175ce455fa4296a331f7eeaa2bfbab4c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51628774,
+        0.51123047,
+        0.65023647,
+        0.85449219
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC15_jpg.rf.5261869a5a430f4f1b542d6bf3b29ec7.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51092896,
+        0.55090909,
+        0.56284153,
+        0.63636364
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC19_jpg.rf.44e1bd43e9bf72075aef1661c3370283.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.2875,
+        0.58333333,
+        0.55833333,
+        0.66666667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC1_jpg.rf.12404f684c59f61749a38cde330e3e2d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53828829,
+        0.469163,
+        0.4009009,
+        0.65638767
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC21_jpg.rf.37c0805b283f3410acc35984f2f3db77.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.4663698,
+        0.39404297,
+        0.63944141,
+        0.50683594
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC21_jpg.rf.df9d3a26ce92dc65e135c4f3544d123d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.46210843,
+        0.39259868,
+        0.63572289,
+        0.49496711
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC22_jpg.rf.c37723d1cafcdd08250a2f77c46cca41.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.214,
+        0.2436,
+        0.24986667,
+        0.44871111
+      ],
+      [
+        0.7832,
+        0.2544,
+        0.21217778,
+        0.41351111
+      ],
+      [
+        0.248,
+        0.77924444,
+        0.23688889,
+        0.43711111
+      ],
+      [
+        0.76724444,
+        0.77128889,
+        0.19071111,
+        0.44115556
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC23_jpg.rf.88637e1fc512c4ccaa3e44a980905965.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.32366071,
+        0.45089286,
+        0.29017857,
+        0.54464286
+      ],
+      [
+        0.67633929,
+        0.42486607,
+        0.35267857,
+        0.58035714
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC26_jpg.rf.4b432bf03ce1417c1ceedd7763436531.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49373333,
+        0.58,
+        0.22863333,
+        0.71696429
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC26_jpg.rf.80184a5337a450c4b171495318ae58c3.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49166667,
+        0.56547619,
+        0.24333333,
+        0.75
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC27_jpg.rf.69727266aac433556c3911d2f9b7401c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51638533,
+        0.49982585,
+        0.69457494,
+        0.96967006
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC28_jpg.rf.5c4a32bab1096db119576767f9d38f6e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50551111,
+        0.58733333,
+        0.4292,
+        0.64017778
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC2_jpg.rf.f749689e0a7555c225cc719262b12e46.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49902344,
+        0.59130859,
+        0.43164062,
+        0.75292969
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC7_jpg.rf.4ad5f3d68105e135a962b834ece3e149.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.4968,
+        0.57142222,
+        0.38204444,
+        0.68462222
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/photomania-35f817b0bd762d6d1a40eca390f86642_jpg.rf.b83c98fc21fc1cc80e842b78021d4a1a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.54222222,
+        0.65083333,
+        0.36444444,
+        0.69833333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/photomania-4372fb3ad7ca0a772e8bd41fa713fa77_jpg.rf.40c019b33d61e28538d694db455ded49.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47544741,
+        0.41825556,
+        0.27808477,
+        0.37301111
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/photomania-7d8a2a384442842f5dba1a6c1eaa7132_jpg.rf.e6e6a9e449ee4499dd082503eea272ba.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.7816666666666666,
+        0.5066666666666667,
+        0.27444444444444444,
+        0.48
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/photomania-d7f6f0b31d29cd626de069a3b48c07e5_jpg.rf.616ed4198cd930d5e1e2e2609e64e6de.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53611111,
+        0.63916667,
+        0.41666667,
+        0.72166667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/SG6_jpg.rf.2cafafc5ba69d9df53e4795db8d454fd.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.4877451,
+        0.73529412,
+        0.43627451,
+        0.5245098
+      ],
+      [
+        0.29330065,
+        0.5625,
+        0.14542484,
+        0.29656863
+      ],
+      [
+        0.71568627,
+        0.61029412,
+        0.17647059,
+        0.32843137
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/014_0270_005249_crop_margin_0-1_jpg.rf.605ad3eee0b0449cc862c616f0adac6d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.41646222,
+        0.46191406,
+        0.70774504,
+        0.50585938
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/014_0271_005122_crop_margin_0-1_jpg.rf.8d740994d4997f589aebc3ef35785423.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5637708,
+        0.46523345,
+        0.75954861,
+        0.50389229
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/014_0271_005149_crop_margin_0-1_jpg.rf.e12de134ecd86dc01ce54cd1cb698eba.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50158632,
+        0.45016197,
+        0.90227601,
+        0.50549452
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/014_0271_005187_crop_margin_0-1_jpg.rf.b0b8f30920a2a89b5a0606110ab7c9f4.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51832546,
+        0.44229414,
+        0.77361491,
+        0.49487384
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/1726038963-7660015_0_jpg.rf.348d8742f9c43876cd74d851fd81b3d0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.541,
+        0.412,
+        0.272,
+        0.51483333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/1726038965-7938187_0_jpg.rf.070ed14e6226670a6f6d7369b9fbc85b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.56834375,
+        0.40345833,
+        0.2048125,
+        0.51858333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/1726038965-8248236_0_jpg.rf.4e6f307b6e67da666bfc15ba9cfdc223.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.56959375,
+        0.411375,
+        0.2073125,
+        0.51275
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/1726038967-2579398_0_jpg.rf.56a908dfe5bc51a6aa9b59976452cb75.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.562875,
+        0.40658333,
+        0.26575,
+        0.51233333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/1726038969-1047628_0_jpg.rf.9abbeb0a130ee266deada6c561d4b42d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5363125,
+        0.417625,
+        0.268875,
+        0.49691667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/1726038971-1664157_0_jpg.rf.f248456ff76b75343671ad31bd500e9e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53209375,
+        0.40991667,
+        0.2198125,
+        0.519
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/1726038976-1771765_0_jpg.rf.6a4bdb19a611b9ff7e9514804752f2e0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53096875,
+        0.40354167,
+        0.2639375,
+        0.52783333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/1726038976-5350423_0_jpg.rf.84eebf9bf61407ab7a0db9ed9bace807.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53160938,
+        0.40404167,
+        0.26260937,
+        0.5276875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/1726038976-6608799_0_jpg.rf.012c8d90567193fa8f315245d12209ae.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5269375,
+        0.40489583,
+        0.27123438,
+        0.5275
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/1726038979-3511128_0_jpg.rf.59e56eebaf6fbd0d85b2d55442b1a157.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5250625,
+        0.40722917,
+        0.27815625,
+        0.51864583
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/1726038979-735878_0_jpg.rf.ea66f7cb1fe5d676a7c70c9cc4c25a59.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5283125,
+        0.40629167,
+        0.26860937,
+        0.52554167
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/1726038981-794196_0_jpg.rf.90380190d2a5f05f4146312c8c797655.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50507813,
+        0.39635417,
+        0.28346875,
+        0.54195833
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/1726038981-9332714_0_jpg.rf.c23749a8fa502424571ecbf4c0c57997.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5041875,
+        0.40127083,
+        0.29575,
+        0.536875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/20231008_221840_jpg.rf.047546f612b1b2fa11109251a63d8a83.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.46453287,
+        0.50270329,
+        0.43886967,
+        0.66890138
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/44c3e2a35eccec5fb495a6020e318d9f_jpg.rf.b7529bbd75651731f0214d0579c79178.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49305085,
+        0.59167598,
+        0.89368644,
+        0.80413408
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/53_jpg.rf.f92bca1002e43d6bb1b23adb895a2943.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.63675214,
+        0.54444444,
+        0.47692308,
+        0.61333333
+      ],
+      [
+        0.11623932,
+        0.57,
+        0.22905983,
+        0.86
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/65a51ed3da66fe04bad2a72f58cceb8c_jpg.rf.393e3485deed48b62d81d12feec3a4cd.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.58008475,
+        0.60109155,
+        0.63559322,
+        0.68242958
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/8f7c942497a38cbca68403b01baf6ee1_jpg.rf.74c26d8b037d7a34433ca663ccc73b40.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.54338983,
+        0.38717514,
+        0.37389831,
+        0.43867232
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/ab6b2e2088301d39e78ced3f52d9dc6a_jpg.rf.259c51684d934a4c8f8eb68d4c391bdf.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.35754237,
+        0.48867347,
+        0.58262712,
+        0.57239796
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/b074dd7a3ff21cc6952d8dda36689505_jpg.rf.90c1e3e477b9cf6ef78c07e813539685.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52220339,
+        0.61132768,
+        0.74525424,
+        0.77734463
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/c3e20ecc0df5ec88f98ee524299e7a8c_jpg.rf.6daeb7725aa96f19a5fa0691f3042a48.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47415254,
+        0.64753521,
+        0.83940678,
+        0.70489437
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/c60f33c1553cb801ba1173091906325d_jpg.rf.55f8d54094b8a452301fe641d89e2cef.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5209322,
+        0.41127119,
+        0.5234322,
+        0.52011299
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/CoatGoggle6_jpg.rf.7a8316c0a47ed4c4b1dacde4fca049ff.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50130208,
+        0.671875,
+        0.4765625,
+        0.65625
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/dalton-ngangi-ZCztndOWdjs-unsplash_jpg.rf.2a14a0eaad272023ee07c352fd5ebee6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.40433114,
+        0.58388158,
+        0.52905702,
+        0.51352339
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260205_134215_-_jpg.rf.313774b090a424c4e0913e4075385a96.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.73046875,
+        0.74166667,
+        0.2546875,
+        0.5125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260205_135939_-_jpg.rf.a88c90e9499674c415f16716ea253584.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.14453125,
+        0.60625,
+        0.2890625,
+        0.55416667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260205_141536_-_jpg.rf.312196038cf463db07c90c812e3ef2e0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.621875,
+        0.709375,
+        0.246875,
+        0.57708333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260205_152612_-_jpg.rf.5904f8aa1b210a83e0ffa3af6a833f41.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.865625,
+        0.69583333,
+        0.265625,
+        0.60416667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260205_154024_-_jpg.rf.ff5b94fea79b9c881fc23b28e17b3964.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47265625,
+        0.69479167,
+        0.2234375,
+        0.60625
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260312_140547_-_jpg.rf.4c2f0b7e3b0a30a54b75f5a155f83a03.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.13984375,
+        0.57083333,
+        0.2796875,
+        0.65416667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260312_140614_-_jpg.rf.24bce6a1e5579343fc691fb5a744662d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.78359375,
+        0.67708333,
+        0.3546875,
+        0.64166667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260312_142030_-_jpg.rf.aa7a191bc233ccbd7284139c80c68b7c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.846875,
+        0.66354167,
+        0.303125,
+        0.66875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260312_151634_-_jpg.rf.6b22dc411e14dbffedac1b0c4ba71d35.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.39453125,
+        0.66145833,
+        0.2984375,
+        0.67291667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260312_153510_-_jpg.rf.418b13c56c4772913de2e145c12d06e7.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.89296875,
+        0.56369792,
+        0.2109375,
+        0.65239583
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260312_170727_-_jpg.rf.4b30b1ddec72c40a92c090d1feb7cde4.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.60703125,
+        0.69270833,
+        0.2609375,
+        0.61041667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260312_171105_-_jpg.rf.d3bd93ad3a36224082bcc1eebcaa8138.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.865625,
+        0.6375,
+        0.265625,
+        0.72083333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260319_123802_-_jpg.rf.2376d44d543fd059beb06e861e02fccf.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.3296875,
+        0.74270833,
+        0.2625,
+        0.51041667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260319_155839_-_jpg.rf.d62ebad2feda1bb474bfafb26838d716.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.67421875,
+        0.75625,
+        0.2734375,
+        0.48333333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260320_123454_-_jpg.rf.e858e1cfb9f2c724ea3c87138ac1ef57.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.85,
+        0.47818437,
+        0.28125,
+        0.62720208
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260320_180519_-_jpg.rf.c0e4bcb1e7819ceebd2874ae728e9131.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.8109375,
+        0.59479167,
+        0.375,
+        0.73958333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260401_114349_-_jpg.rf.a0724307d422acb598903d2f52bfa010.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.64296875,
+        0.76979167,
+        0.5234375,
+        0.45208333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260401_123449_-_jpg.rf.6bfe6ff70184388a104f50ec7cc1885b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.8671875,
+        0.58645833,
+        0.2625,
+        0.82291667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260401_131216_-_jpg.rf.a581a2afc75915c07957479f7fb7bd8e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.84140625,
+        0.46648958,
+        0.2171875,
+        0.67464583
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260401_133039_-_jpg.rf.797e4e5583d470239667ee998da0afad.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.16171875,
+        0.67291667,
+        0.2671875,
+        0.475
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260401_160555_-_jpg.rf.4ebad18a758a267502e507df72a89290.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.62421875,
+        0.7375,
+        0.2828125,
+        0.52083333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260408_141851_-_jpg.rf.f2fd2f34759003dbc1fce23fbfbd55b0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.88359375,
+        0.66354167,
+        0.2296875,
+        0.66875
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260408_150651_-_jpg.rf.38da82c0d845aabbc21892e9e4e6add1.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.89609375,
+        0.62083333,
+        0.2046875,
+        0.75416667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260408_153142_-_jpg.rf.1cafc5169994f3cc37818b67435f1540.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.8140625,
+        0.615625,
+        0.340625,
+        0.76458333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260408_161919_-_jpg.rf.5957d7e224c01221a154ee45455d201e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.7484375,
+        0.728125,
+        0.321875,
+        0.53958333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260408_172235_-_jpg.rf.661dce467f9819f82faf125e216e5257.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50078125,
+        0.71041667,
+        0.2578125,
+        0.575
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/detect_20260408_212511_-_jpg.rf.40f0c3cc77284136bdd41f1950a3d8d7.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.18046875,
+        0.640625,
+        0.2796875,
+        0.55208333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/download_jpeg.rf.4f9211a80414183a09395bf9376440ba.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48066667,
+        0.49302222,
+        0.67817778,
+        0.91026667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/Dr_-Gulati-Hospital-Inspector-Checking-_-The-Kapil-Sharma-Show-_Such-Intelligence_mp4-23_jpg.rf.ba708507ab02f49dd330b7a4ffb958e5.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51269531,
+        0.73090278,
+        0.59179688,
+        0.53819444
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/Dr_-Gulati-Hospital-Inspector-Checking-_-The-Kapil-Sharma-Show-_Such-Intelligence_mp4-37_jpg.rf.cfa0b53b1f687ecc1c6233444c971188.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.54150781,
+        0.60243056,
+        0.26855469,
+        0.59722222
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/Dr_-Gulati-Hospital-Inspector-Checking-_-The-Kapil-Sharma-Show-_Such-Intelligence_mp4-38_jpg.rf.a3777bd1fd1c8a541b7b0b950ddbb48c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.301953125,
+        0.4826388888888889,
+        0.09921875,
+        0.3402777777777778
+      ],
+      [
+        0.7078125,
+        0.61875,
+        0.0796875,
+        0.13194444444444445
+      ]
+    ],
+    "note": "manually_reviewed_or_corrected"
+  },
+  "images/val/e6d16fa092785a9ac9b73179261882d3_jpg.rf.0bd364457a26373bd93281f4f9622ea6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.53088983,
+        0.36805085,
+        0.48355932,
+        0.43036723
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/fotos-lwPbuaohBzc-unsplash_jpg.rf.50f5ea683fa95d2f01cc90b1139f80e3.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47375,
+        0.67625,
+        0.42416667,
+        0.6475
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/frame_0020_png.rf.0f8341293bae8ae8a2c781bd58134676.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.65756771,
+        0.51183333,
+        0.62763542,
+        0.97633333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/frame_0215_png.rf.1f8d3566508a90d0292fa70c018eefc6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.54792708,
+        0.53188889,
+        0.40835937,
+        0.93621296
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/frame_0220_png.rf.5b36dcbe3db6f51051a42dfc4a5f3fed.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.59044792,
+        0.55503704,
+        0.56978646,
+        0.88991667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/frame_0285_png.rf.cccc0d8df5393f7551d259e25393c477.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.55920313,
+        0.51260185,
+        0.56284896,
+        0.9747963
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/frame_0415_png.rf.2019f5c5640de76032461e8ed51baaa2.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.61763542,
+        0.50257407,
+        0.69360937,
+        0.99485185
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/gettyimages-1135282568-612x612_jpg.rf.0be640212abcd37ad7b67c1392f3429b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51963048,
+        0.43382353,
+        0.44341801,
+        0.37091503
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/gettyimages-1193707771-612x612_jpg.rf.25da68dfc7b1c8cc76ea25709312711a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.7459150326797386,
+        0.6862745098039216,
+        0.272875816993464,
+        0.6078431372549019
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/images-7-_jpeg.rf.c7c8a3d07d8761c4c73f5f72a51c758e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50453333,
+        0.63373333,
+        0.56133333,
+        0.68804444
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/istockphoto-1418259125-612x612_jpg.rf.6807b269ccfe69f14fbff0000b5096be.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52341503,
+        0.68791054,
+        0.40632353,
+        0.62417892
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/istockphoto-1432559149-612x612_jpg.rf.36e9c0c25b5a806c75c38515b3971928.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52341503,
+        0.70178922,
+        0.5,
+        0.59639706
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/istockphoto-600071976-612x612_jpg.rf.a722300783e3dce325b2e0ed72331c04.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.64488562,
+        0.61438725,
+        0.08933007,
+        0.23529412
+      ],
+      [
+        0.73965686,
+        0.62580882,
+        0.09150327,
+        0.26470588
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/KakaoTalk_20240321_043006418_07_jpg.rf.84194b219e368846cb166c264bce2ce7.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.45963542,
+        0.64199748,
+        0.72135417,
+        0.71405191
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/labcoat-9c29a722-9c0f-11ed-85d0-302432be1431_jpg.rf.bda1a7684a5c1fdbde8c657d7035a8d3.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.55501563,
+        0.44591667,
+        0.3935625,
+        0.819125
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC10_jpg.rf.6b6203aeaf00933f184fbc576d5342d0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.28135621,
+        0.61199017,
+        0.22787582,
+        0.33017199
+      ],
+      [
+        0.64849673,
+        0.79078624,
+        0.34678105,
+        0.24891892
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC30_jpg.rf.b5e80e52d247c6fc5690ef9563d54820.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5,
+        0.5856573705179283,
+        0.5920398009950248,
+        0.7330677290836654
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC5_jpg.rf.2707c70da5fae72d6acfc3300ae5e681.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.35640523,
+        0.68446602,
+        0.30228758,
+        0.62378641
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC7_jpg.rf.4065ed56bbe72fcf5e3f69e3a1bb6ef1.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.27777778,
+        0.67327766,
+        0.24183007,
+        0.65135699
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/pexels-polina-tankilevitch-3735730_jpg.rf.24e58d32cdd75a9572e8fae150f93b8d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.31075868,
+        0.74642857,
+        0.32576082,
+        0.34142857
+      ],
+      [
+        0.65259323,
+        0.72214286,
+        0.27646807,
+        0.30714286
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/pexels-rdne-stock-project-6129106_jpg.rf.5760aa80db65a08fd6679c273c7436d8.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.56342016,
+        0.65571914,
+        0.7191393,
+        0.68856172
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/pexels-rdne-stock-project-6129497_jpg.rf.e74aaabf5b5ded3811ee723a47c1fd2f.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52597612,
+        0.65490534,
+        0.87124879,
+        0.69018933
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/pexels-tima-miroshnichenko-8376226_jpg.rf.3a0da3428ba18ce46099236dbb223fae.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.45564192,
+        0.7378953,
+        0.90056285,
+        0.52170806
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/photomania-42727b0928dd58e9a2b362739c2d1e8e_jpg.rf.997863e6bf8006c90a358886ca91f018.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.57648012,
+        0.43412222,
+        0.44603829,
+        0.56348889
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/photomania-ef72d1be830124ea9f0039e190d1a456_jpg.rf.de4e8cc42b03603d1128209dc7c7a0d0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.57437408,
+        0.43651111,
+        0.41658321,
+        0.56507778
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/photomania-f036b26a2027402bb1b7857257daa556_jpg.rf.960e642a410dbca7afc92ccf6447c328.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.31666667,
+        0.53174444,
+        0.5381,
+        0.35237778
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/tom-claes-JfUKD6JVeQ0-unsplash_jpg.rf.a75d078e00770b0682bcc951a1b2aee0.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.8,
+        0.58348904,
+        0.38726115,
+        0.60981824
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  }
+}

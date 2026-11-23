@@ -1,0 +1,20 @@
+camera_id: cam01
+reference_frame: {width: 1280, height: 720}
+zones:
+- zone_id: general_1
+  name: general_1
+  type: general
+  polygon:
+  - [0.2891, 0.2458]
+  - [0.7562, 0.2639]
+  - [0.7312, 0.9931]
+  - [0.2938, 0.9972]
+  - [0.2891, 0.2458]
+- zone_id: general_2
+  name: general_2
+  type: general
+  polygon:
+  - [0.6648, 0.1514]
+  - [0.9977, 0.1347]
+  - [0.9984, 0.9903]
+  - [0.7242, 0.9875]

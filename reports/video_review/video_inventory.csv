@@ -1,0 +1,13 @@
+﻿path,size_bytes,readable,width,height,fps,frame_count,duration_sec,codec,sample_frames_read,contact_sheet,error
+data\synthetic\coat_ok.mp4,1784434,True,1280,720,30.0,600,20.0,FMP4,5,reports\video_review\contact_sheets\coat_ok.jpg,
+data\synthetic\cross_two_people.mp4,3076339,True,1280,720,30.0,600,20.0,FMP4,5,reports\video_review\contact_sheets\cross_two_people.jpg,
+data\synthetic\leave_return.mp4,1327869,True,1280,720,30.0,720,24.0,FMP4,5,reports\video_review\contact_sheets\leave_return.jpg,
+data\synthetic\no_coat.mp4,1348500,True,1280,720,30.0,600,20.0,FMP4,5,reports\video_review\contact_sheets\no_coat.jpg,
+data\synthetic\phone_hand.mp4,1993556,True,1280,720,30.0,600,20.0,FMP4,5,reports\video_review\contact_sheets\phone_hand.jpg,
+data\synthetic\phone_table.mp4,1994795,True,1280,720,30.0,600,20.0,FMP4,5,reports\video_review\contact_sheets\phone_table.jpg,
+data\synthetic\restricted.mp4,1488227,True,1280,720,30.0,600,20.0,FMP4,5,reports\video_review\contact_sheets\restricted.jpg,
+data\synthetic\restricted_brief.mp4,961181,True,1280,720,30.0,300,10.0,FMP4,5,reports\video_review\contact_sheets\restricted_brief.jpg,
+data\tracking_test.mp4,2572993,True,1280,720,30.0,821,27.367,h264,5,reports\video_review\contact_sheets\tracking_test.jpg,
+data\tracking_test_2.mp4,1658884,True,1280,720,30.0,387,12.9,h264,5,reports\video_review\contact_sheets\tracking_test_2.jpg,
+data\zone_test.mp4,5080536,True,1280,720,30.0,1531,51.033,h264,5,reports\video_review\contact_sheets\zone_test.jpg,
+data\zone_test_2.mp4,3075893,True,1280,720,30.0,928,30.933,h264,5,reports\video_review\contact_sheets\zone_test_2.jpg,

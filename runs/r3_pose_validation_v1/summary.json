@@ -1,0 +1,24 @@
+{
+  "frames": 277,
+  "fps": 30.0,
+  "input_fps": 30.0,
+  "processing_seconds": 39.74,
+  "processing_fps": 6.97,
+  "detections_by_class": {
+    "person": 131,
+    "lab_coat": 54
+  },
+  "mean_tracks_per_frame": 0.466,
+  "unique_track_ids": 1,
+  "median_track_life_sec": 4.3,
+  "short_tracks_lt_1s": 0,
+  "events_by_rule": {},
+  "pose": {
+    "enabled": true,
+    "weights": "yolo11n-pose.pt",
+    "pose_instances": 134,
+    "matched_to_person_tracks": 129,
+    "pose_track_match_rate": 0.9627,
+    "match_iou_threshold": 0.3
+  }
+}

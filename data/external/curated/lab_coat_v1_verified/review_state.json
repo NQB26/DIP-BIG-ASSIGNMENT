@@ -1,0 +1,662 @@
+{
+  "images/train/LC10_jpg.rf.d393619a6c263c439135252e894f5e9d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.14666667,
+        0.52380952,
+        0.25666667,
+        0.61309524
+      ],
+      [
+        0.26333333,
+        0.39880952,
+        0.18,
+        0.23809524
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC12_jpg.rf.002092f5306e12ecd35e96ee0d2d87ec.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.31147541,
+        0.75454545,
+        0.32240437,
+        0.34545455
+      ],
+      [
+        0.64480874,
+        0.71818182,
+        0.24043716,
+        0.33090909
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC13_jpg.rf.fedbc84ac2a83ee2736718e4edb1bd8a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.72195122,
+        0.47357724,
+        0.43414634,
+        0.58943089
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC15_jpg.rf.13b2fc1f92390e57d57195c2d49b7a8e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.66363636,
+        0.68579235,
+        0.55272727,
+        0.61202186
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC16_jpg.rf.110a9ad587a53fd69640865bfb6a6fe5.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.30092593,
+        0.65236052,
+        0.56944444,
+        0.54506438
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC17_jpg.rf.5c7e2515608ac9f2068d20369318105a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.61090909,
+        0.66120219,
+        0.18909091,
+        0.6557377
+      ],
+      [
+        0.44181818,
+        0.63387978,
+        0.22181818,
+        0.61202186
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC1_jpg.rf.ab1e2822516a0bdc9ec90a038c405207.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.40889052,
+        0.43238609,
+        0.39382807,
+        0.44487996
+      ],
+      [
+        0.66605437,
+        0.41964723,
+        0.3614989,
+        0.46251837
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC20_jpg.rf.048676a42f6bb3e149e9858497439c70.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.1879085,
+        0.62990196,
+        0.36111111,
+        0.72058824
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC11_jpg.rf.e294146426a974ae15048e4370832225.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.15217391,
+        0.4375,
+        0.14046823,
+        0.44047619
+      ],
+      [
+        0.28595318,
+        0.45535714,
+        0.15050167,
+        0.50595238
+      ],
+      [
+        0.43311037,
+        0.35714286,
+        0.1638796,
+        0.35714286
+      ],
+      [
+        0.62541806,
+        0.36607143,
+        0.13712375,
+        0.41666667
+      ],
+      [
+        0.78762542,
+        0.47916667,
+        0.20401338,
+        0.55952381
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC14_jpg.rf.19893d233a96308c883a2e89200593ba.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.20446097,
+        0.6037234,
+        0.14126394,
+        0.42021277
+      ],
+      [
+        0.72304833,
+        0.54255319,
+        0.42750929,
+        0.45744681
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC18_jpg.rf.185ea69f53971b93bedcacd868329adf.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.6928839,
+        0.55820106,
+        0.13483146,
+        0.32275132
+      ],
+      [
+        0.55805243,
+        0.55026455,
+        0.13857678,
+        0.32275132
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC19_jpg.rf.cbe891432fc8cbb4272376715420456c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.2875,
+        0.58333333,
+        0.55833333,
+        0.66666667
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC21_jpg.rf.561fc336896bdb2e28efaaa2921272d7.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.46385542,
+        0.40131579,
+        0.6746988,
+        0.53947368
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC22_jpg.rf.0c7e63b59ba2d4eb79d7661ac9ade852.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.21111111,
+        0.25333333,
+        0.27111111,
+        0.46222222
+      ],
+      [
+        0.78222222,
+        0.25777778,
+        0.24888889,
+        0.44444444
+      ],
+      [
+        0.24222222,
+        0.76666667,
+        0.27555556,
+        0.46222222
+      ],
+      [
+        0.77111111,
+        0.76888889,
+        0.21777778,
+        0.44888889
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC23_jpg.rf.b023ac5a70f5704adbcdbd429931d7ab.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.32366071,
+        0.45089286,
+        0.29017857,
+        0.54464286
+      ],
+      [
+        0.67633929,
+        0.42633929,
+        0.35267857,
+        0.58035714
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC24_jpg.rf.065515886a91c164fdcde42e64bbf26d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.4947644,
+        0.58143939,
+        0.87434555,
+        0.6969697
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC25_jpg.rf.40d1ef8cf08c281636eb5c7cf671a97b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47814208,
+        0.47636364,
+        0.44262295,
+        0.46545455
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC26_jpg.rf.326eb4dceec1185dcc64eeee3dd007bc.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49833333,
+        0.57738095,
+        0.27,
+        0.81547619
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC27_jpg.rf.eb8a125c92f8ed3424c33888b4b14d49.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50505051,
+        0.50392157,
+        0.72222222,
+        0.97254902
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC28_jpg.rf.0dd94dbc1e4810fa72092fc99b0db63b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.52,
+        0.58444444,
+        0.52,
+        0.71555556
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC29_jpg.rf.c38c27fd9af82aee1296ade7f15d059d.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.45628415,
+        0.61454545,
+        0.84153005,
+        0.76363636
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC2_jpg.rf.18b7f322405cd4af57b17aec3e82d338.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48888889,
+        0.58888889,
+        0.48444444,
+        0.75111111
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC30_jpg.rf.ff59cede0fcca3e8bd218730d455506b.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5199005,
+        0.60557769,
+        0.66169154,
+        0.76494024
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC3_jpg.rf.d5d4c2f8413f5a83d74211bd2b44a7ea.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50888889,
+        0.59777778,
+        0.45333333,
+        0.73333333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC4_jpg.rf.e0d1a26a359bb9d06e72114abc25052e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.5,
+        0.60747664,
+        0.95541401,
+        0.76323988
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC5_jpg.rf.3a5c1f17d0c0dda3ab17335e404e5eba.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49555556,
+        0.58888889,
+        0.37777778,
+        0.67111111
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC6_jpg.rf.2f89d49d795e4c818f5d2e67b29fc48c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.47814208,
+        0.57818182,
+        0.66666667,
+        0.70545455
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC7_jpg.rf.3570ca8ad092525db99be34813b67cce.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.49777778,
+        0.57333333,
+        0.48444444,
+        0.71555556
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC8_jpg.rf.af81310aa468f3260fd557dc3f7be737.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.19111111,
+        0.44,
+        0.28,
+        0.51111111
+      ],
+      [
+        0.75777778,
+        0.64,
+        0.46222222,
+        0.69333333
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/train/LC9_jpg.rf.195a245d346141efc0efef0a75b80ef5.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.43989071,
+        0.58909091,
+        0.6284153,
+        0.76363636
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC10_jpg.rf.b3e3a929523acb004bcf9d9b24d0cf2a.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.29330065,
+        0.61670762,
+        0.27941176,
+        0.36609337
+      ],
+      [
+        0.63970588,
+        0.74447174,
+        0.36437908,
+        0.34152334
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC11_jpg.rf.95a0a7da389361000556f58747011c95.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50505051,
+        0.51960784,
+        0.69191919,
+        0.90196078
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC12_jpg.rf.9592025042bc941f25daea190f99091e.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.50578035,
+        0.54982818,
+        0.68208092,
+        0.6975945
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC13_jpg.rf.d987b9f7cef72a854af7063e504302b9.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.48924731,
+        0.5904059,
+        0.72043011,
+        0.81180812
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC14_jpg.rf.ed106d817e70f4678dfd73218356a7d6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.45365854,
+        0.59552846,
+        0.62926829,
+        0.80487805
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC15_jpg.rf.fcf4ecd2bfb3ebb9128aeb42b3014581.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.51092896,
+        0.56,
+        0.60655738,
+        0.68
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC1_jpg.rf.5ab37413bce3ea0541c1a28d4adc5c78.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.54054054,
+        0.47136564,
+        0.41441441,
+        0.64317181
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC2_jpg.rf.bc950e3714be5076669aa8f53bd085b6.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.65931373,
+        0.6875,
+        0.25816993,
+        0.59558824
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC3_jpg.rf.13f9de38668f96c5b861b9c52f40e734.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.37009804,
+        0.71568627,
+        0.18137255,
+        0.56127451
+      ],
+      [
+        0.70915033,
+        0.59681373,
+        0.19281046,
+        0.43627451
+      ],
+      [
+        0.51797386,
+        0.74387255,
+        0.15849673,
+        0.4877451
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC4_jpg.rf.4f78e399b216778de23392a6964b608c.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.40359477,
+        0.74754902,
+        0.24673203,
+        0.48284314
+      ],
+      [
+        0.63398693,
+        0.70098039,
+        0.17647059,
+        0.50490196
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC5_jpg.rf.97c7001250504757a83ca0df456ea148.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.35539216,
+        0.68446602,
+        0.30228758,
+        0.62378641
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC6_jpg.rf.77901f3337494a53c232812436882f6f.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.66339869,
+        0.68137255,
+        0.35784314,
+        0.625
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC7_jpg.rf.30c993b923ff3cd2a1ad66360904a545.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.27777778,
+        0.67327766,
+        0.24183007,
+        0.65135699
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC8_jpg.rf.17b721a0e94805bf6b74b67e9ebcdcb5.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.36151961,
+        0.71977124,
+        0.40686275,
+        0.55718954
+      ],
+      [
+        0.72794118,
+        0.7745098,
+        0.34313725,
+        0.43954248
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  },
+  "images/val/LC9_jpg.rf.38e60835c82523b50fa9600686472f77.jpg": {
+    "status": "verified_positive",
+    "boxes": [
+      [
+        0.6004902,
+        0.67,
+        0.29411765,
+        0.64
+      ]
+    ],
+    "note": "accepted_existing_or_current_boxes"
+  }
+}

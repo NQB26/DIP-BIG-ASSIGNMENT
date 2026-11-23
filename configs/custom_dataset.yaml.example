@@ -1,0 +1,11 @@
+# Copy this file to data/custom_yolo/data.yaml after creating the folder tree.
+# Paths are relative to the `path` value. Use forward slashes on Windows.
+path: .
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: person
+  1: lab_coat
+  2: cell_phone

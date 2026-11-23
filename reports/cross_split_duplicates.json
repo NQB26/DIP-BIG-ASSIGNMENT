@@ -1,0 +1,97 @@
+[
+  {
+    "sha256": "46d4722743daccb9ff56f5a73fb0d2686d7ff20609fe54bfe95f98c83560fa6f",
+    "records": [
+      {
+        "dataset": "V1",
+        "split": "train",
+        "image": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v1_class0\\images\\train\\LC30_jpg.rf.ff59cede0fcca3e8bd218730d455506b.jpg",
+        "label": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v1_class0\\labels\\train\\LC30_jpg.rf.ff59cede0fcca3e8bd218730d455506b.txt",
+        "label_exists": true
+      },
+      {
+        "dataset": "V2",
+        "split": "val",
+        "image": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v2_class2_clean\\images\\val\\LC30_jpg.rf.b5e80e52d247c6fc5690ef9563d54820.jpg",
+        "label": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v2_class2_clean\\labels\\val\\LC30_jpg.rf.b5e80e52d247c6fc5690ef9563d54820.txt",
+        "label_exists": true
+      }
+    ]
+  },
+  {
+    "sha256": "5542c01c836096290139e58ac72c90f0d18492ebe83297fb6ec4e83269192da2",
+    "records": [
+      {
+        "dataset": "V1",
+        "split": "val",
+        "image": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v1_class0\\images\\val\\LC11_jpg.rf.95a0a7da389361000556f58747011c95.jpg",
+        "label": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v1_class0\\labels\\val\\LC11_jpg.rf.95a0a7da389361000556f58747011c95.txt",
+        "label_exists": true
+      },
+      {
+        "dataset": "V2",
+        "split": "train",
+        "image": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v2_class2_clean\\images\\train\\LC11_jpg.rf.175ce455fa4296a331f7eeaa2bfbab4c.jpg",
+        "label": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v2_class2_clean\\labels\\train\\LC11_jpg.rf.175ce455fa4296a331f7eeaa2bfbab4c.txt",
+        "label_exists": true
+      }
+    ]
+  },
+  {
+    "sha256": "7960bfae7b806e077fdfdb004117a49dffa21514b3bec09bb9dff3aa8dbdc410",
+    "records": [
+      {
+        "dataset": "V1",
+        "split": "val",
+        "image": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v1_class0\\images\\val\\LC12_jpg.rf.9592025042bc941f25daea190f99091e.jpg",
+        "label": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v1_class0\\labels\\val\\LC12_jpg.rf.9592025042bc941f25daea190f99091e.txt",
+        "label_exists": true
+      },
+      {
+        "dataset": "V2",
+        "split": "test",
+        "image": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v2_class2_clean\\images\\test\\LC12_jpg.rf.315aeef4e52131c9a5c83c51c2aa0155.jpg",
+        "label": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v2_class2_clean\\labels\\test\\LC12_jpg.rf.315aeef4e52131c9a5c83c51c2aa0155.txt",
+        "label_exists": true
+      }
+    ]
+  },
+  {
+    "sha256": "54f85721ee504af82591cd5f4f58cb6c92a41b9b64c7716f01abae6bce3eea9c",
+    "records": [
+      {
+        "dataset": "V1",
+        "split": "val",
+        "image": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v1_class0\\images\\val\\LC15_jpg.rf.fcf4ecd2bfb3ebb9128aeb42b3014581.jpg",
+        "label": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v1_class0\\labels\\val\\LC15_jpg.rf.fcf4ecd2bfb3ebb9128aeb42b3014581.txt",
+        "label_exists": true
+      },
+      {
+        "dataset": "V2",
+        "split": "train",
+        "image": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v2_class2_clean\\images\\train\\LC15_jpg.rf.5261869a5a430f4f1b542d6bf3b29ec7.jpg",
+        "label": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v2_class2_clean\\labels\\train\\LC15_jpg.rf.5261869a5a430f4f1b542d6bf3b29ec7.txt",
+        "label_exists": true
+      }
+    ]
+  },
+  {
+    "sha256": "cd2b9a7a7f079deb6ef37fe2c28d3e5311cd5b3e81ef70d57c0e80835be9a94c",
+    "records": [
+      {
+        "dataset": "V1",
+        "split": "val",
+        "image": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v1_class0\\images\\val\\LC1_jpg.rf.5ab37413bce3ea0541c1a28d4adc5c78.jpg",
+        "label": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v1_class0\\labels\\val\\LC1_jpg.rf.5ab37413bce3ea0541c1a28d4adc5c78.txt",
+        "label_exists": true
+      },
+      {
+        "dataset": "V2",
+        "split": "train",
+        "image": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v2_class2_clean\\images\\train\\LC1_jpg.rf.12404f684c59f61749a38cde330e3e2d.jpg",
+        "label": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v2_class2_clean\\labels\\train\\LC1_jpg.rf.12404f684c59f61749a38cde330e3e2d.txt",
+        "label_exists": true
+      }
+    ]
+  }
+]

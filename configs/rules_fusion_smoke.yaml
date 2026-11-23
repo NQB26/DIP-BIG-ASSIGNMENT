@@ -1,0 +1,23 @@
+# Perception + tracking smoke test only.
+# All safety rules are intentionally disabled until camera zones and thresholds
+# have been checked against the selected camera view.
+common:
+  person_conf_min: 0.5
+  dedup_iou: 0.5
+  full_frame_fallback: false
+  event_id_db: runs/fusion_smoke/event_sequence.sqlite3
+
+tracker:
+  lost_buffer_sec: 3.0
+  activation_threshold: 0.5
+  high_conf_threshold: 0.6
+  min_consecutive_frames: 2
+  min_iou: 0.05
+
+rules:
+  R1:
+    enabled: false
+  R2:
+    enabled: false
+  R3:
+    enabled: false

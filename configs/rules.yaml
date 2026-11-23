@@ -1,0 +1,51 @@
+rules:
+  R1:
+    name: "NO_LAB_COAT"
+    description: "Không mặc áo blouse trong khu vực thí nghiệm"
+    enabled: false
+    target_zone_type: "general"
+    min_duration_sec: 2.5        # Vi phạm liên tục 2-3s mới báo
+    grace_period_sec: 0.4        # Bỏ qua frame AI mất detection ngắn
+    cooldown_sec: 15.0           # Không báo lặp lại trong 15s
+    min_ioa_threshold: 0.6       # Tỷ lệ box áo nằm trong box người
+    min_person_height_px: 100    # Bỏ qua người đứng quá xa/mờ
+    severity: "medium"           # [thêm] mức độ cho Dashboard
+    coat_conf_min: 0.4           # [thêm] conf tối thiểu của box áo
+    coat_hold_sec: 0.5           # [thêm] giữ trạng thái "có áo" thêm 0.5s sau lần thấy cuối
+
+  R2:
+    name: "RESTRICTED_ZONE"
+    description: "Đi vào vùng hạn chế"
+    enabled: true
+    target_zone_type: "restricted"
+    anchor_point: "bottom_center"
+    severity: "high"             # [thêm]
+    min_duration_sec: 1.5        # Ở trong vùng 1-2s mới báo
+    grace_period_sec: 0.3
+    cooldown_sec: 10.0
+
+  R3:
+    name: "PHONE_USAGE"
+    description: "Sử dụng điện thoại trong khu vực thí nghiệm"
+    enabled: true
+    target_zone_type: "general"
+    min_duration_sec: 3.0        # Duy trì ít nhất 3s
+    grace_period_sec: 0.4
+    cooldown_sec: 15.0
+    upper_body_ratio: 0.65       # Chỉ xét 65% chiều cao phía trên của người
+    severity: "medium"           # [thêm]
+    phone_conf_min: 0.3          # [thêm] conf tối thiểu của box điện thoại
+
+# [thêm] Tham số chung và ByteTrack (có mặc định trong code, khai báo để chỉnh)
+common:
+  person_conf_min: 0.5
+  dedup_iou: 0.5               # chống báo trùng khi đổi track_id
+  full_frame_fallback: false   # không áp dụng R1/R3 toàn ảnh nếu chưa có general zone
+  event_id_db: "runs/event_sequence.sqlite3"  # bộ đếm Event ID bền vững qua restart
+
+tracker:
+  lost_buffer_sec: 3.0
+  activation_threshold: 0.5
+  high_conf_threshold: 0.6
+  min_consecutive_frames: 2
+  min_iou: 0.05

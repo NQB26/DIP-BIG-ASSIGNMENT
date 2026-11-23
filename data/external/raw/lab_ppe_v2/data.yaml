@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Gloves', 'Goggles', 'Lab_coat']
+
+roboflow:
+  workspace: luu-trong-khanh-b24dcdk044
+  project: lab-coat-v8qin-5s1tw
+  version: 1
+  license: CC BY 4.0
+  url: https://app.roboflow.com/luu-trong-khanh-b24dcdk044/lab-coat-v8qin-5s1tw/1

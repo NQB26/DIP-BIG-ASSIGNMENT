@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "source": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\raw\\lab_ppe_v2",
+  "source_data_yaml": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\raw\\lab_ppe_v2\\data.yaml",
+  "source_classes": {
+    "0": "Gloves",
+    "1": "Goggles",
+    "2": "Lab_coat"
+  },
+  "target_class": "lab_coat",
+  "source_target_class_id": 2,
+  "source_target_class_name": "Lab_coat",
+  "output_class_id": 0,
+  "missing_source_splits": [],
+  "annotation_formats": {
+    "bbox_rows": 390,
+    "polygon_rows": 230
+  },
+  "boundary_policy": {
+    "bbox_boundary_epsilon": 0.0001,
+    "action": "clip_bbox_corners_and_recompute_xywh_within_tolerance; reject_larger_excursions",
+    "clipped_target_bbox_rows": 3
+  },
+  "splits": {
+    "train": {
+      "images": 373,
+      "images_with_lab_coat": 373,
+      "empty_negative_images": 0,
+      "lab_coat_objects": 394,
+      "lab_coat_bbox_objects": 252,
+      "lab_coat_polygon_objects_converted_to_bbox": 142,
+      "ignored_non_target_objects": 63,
+      "missing_source_label_files": 0,
+      "lab_coat_bbox_objects_clipped_to_image_bounds": 2
+    },
+    "val": {
+      "images": 87,
+      "images_with_lab_coat": 87,
+      "empty_negative_images": 0,
+      "lab_coat_objects": 94,
+      "lab_coat_bbox_objects": 59,
+      "lab_coat_polygon_objects_converted_to_bbox": 35,
+      "ignored_non_target_objects": 39,
+      "missing_source_label_files": 0,
+      "lab_coat_bbox_objects_clipped_to_image_bounds": 1
+    },
+    "test": {
+      "images": 19,
+      "images_with_lab_coat": 19,
+      "empty_negative_images": 0,
+      "lab_coat_objects": 23,
+      "lab_coat_bbox_objects": 5,
+      "lab_coat_polygon_objects_converted_to_bbox": 18,
+      "ignored_non_target_objects": 7,
+      "missing_source_label_files": 0,
+      "lab_coat_bbox_objects_clipped_to_image_bounds": 0
+    }
+  },
+  "duplicate_image_hashes_across_splits": [
+    {
+      "split_a": "val",
+      "split_b": "test",
+      "count": 1
+    }
+  ]
+}

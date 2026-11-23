@@ -1,0 +1,5 @@
+path: C:/Users/ACER/Downloads/DIP-BIG-ASSIGNMENT-main/data/external/processed/lab_coat_v1_class0
+train: images/train
+val: images/val
+names:
+  0: lab_coat

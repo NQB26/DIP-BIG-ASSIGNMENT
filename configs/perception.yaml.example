@@ -1,0 +1,27 @@
+# Example perception configuration for the two-detector strategy.
+# Copy/merge these paths into your local deployment command; do not put
+# model weights into source control if they are large.
+models:
+  coco_detector:
+    weights: yolo11n.pt
+    use_classes:
+      - person
+      - cell_phone
+  lab_coat_detector:
+    enabled: false
+    weights: models/labcoat/best.pt
+    class_name: lab_coat
+
+inference:
+  confidence: 0.25
+  image_size: 640
+  device: cpu
+
+training:
+  lab_coat_dataset_yaml: data/external/lab_coat_yolo/data.yaml
+  base_weights: yolo11n.pt
+  image_size: 512
+  epochs: 50
+  batch: 2
+  workers: 0
+  device: cpu

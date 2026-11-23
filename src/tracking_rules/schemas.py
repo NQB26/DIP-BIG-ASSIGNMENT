@@ -1,0 +1,43 @@
+"""Kiểu dữ liệu dùng chung giữa Detection -> Tracking -> Rule Engine."""
+from __future__ import annotations
+
+from dataclasses import dataclass
+from typing import List, Tuple
+
+BBox = Tuple[float, float, float, float]  # x1, y1, x2, y2 (pixel)
+
+
+@dataclass(frozen=True)
+class Detection:
+    class_name: str
+    confidence: float
+    bbox: BBox
+
+
+@dataclass(frozen=True)
+class Track:
+    track_id: int
+    class_name: str
+    confidence: float
+    bbox: BBox
+
+
+@dataclass(frozen=True)
+class Zone:
+    zone_id: str
+    type: str                                  # "general" | "restricted"
+    polygon_norm: List[Tuple[float, float]]    # toạ độ chuẩn hoá [0, 1]
+
+    def polygon_px(self, width: int, height: int):
+        return [(x * width, y * height) for x, y in self.polygon_norm]
+
+
+@dataclass(frozen=True)
+class PoseObservation:
+    """One frame-local person pose with COCO-17 keypoints (x, y, confidence).
+
+    Pose instances do not carry persistent IDs; they must be associated to a
+    ByteTrack Track for the current frame before being passed to RuleEngine.
+    """
+    bbox: BBox
+    keypoints: Tuple[Tuple[float, float, float], ...]

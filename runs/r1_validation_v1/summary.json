@@ -1,0 +1,16 @@
+{
+  "frames": 449,
+  "fps": 30.0,
+  "input_fps": 30.0,
+  "processing_seconds": 41.253,
+  "processing_fps": 10.884,
+  "detections_by_class": {
+    "person": 308,
+    "lab_coat": 144
+  },
+  "mean_tracks_per_frame": 0.67,
+  "unique_track_ids": 1,
+  "median_track_life_sec": 10.03,
+  "short_tracks_lt_1s": 0,
+  "events_by_rule": {}
+}

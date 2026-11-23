@@ -1,0 +1,31 @@
+{
+  "source": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\raw\\lab_ppe_v1",
+  "source_data_yaml": "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\raw\\lab_ppe_v1\\data.yaml",
+  "source_classes": {
+    "0": "2"
+  },
+  "target_class": "lab_coat",
+  "source_target_class_id": 0,
+  "source_target_class_name": "2",
+  "output_class_id": 0,
+  "missing_source_splits": [
+    "test"
+  ],
+  "splits": {
+    "train": {
+      "images": 30,
+      "images_with_lab_coat": 30,
+      "empty_negative_images": 0,
+      "lab_coat_objects": 45,
+      "missing_source_label_files": 0
+    },
+    "val": {
+      "images": 15,
+      "images_with_lab_coat": 15,
+      "empty_negative_images": 0,
+      "lab_coat_objects": 20,
+      "missing_source_label_files": 0
+    }
+  },
+  "duplicate_image_hashes_across_splits": []
+}

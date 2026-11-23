@@ -1,0 +1,48 @@
+# R3-only validation profile. R1/R2 stay disabled to isolate pose-assisted phone use.
+rules:
+  R1:
+    name: "NO_LAB_COAT"
+    enabled: false
+    target_zone_type: "general"
+    min_duration_sec: 2.5
+    grace_period_sec: 0.4
+    cooldown_sec: 15.0
+    min_ioa_threshold: 0.6
+    min_person_height_px: 100
+    severity: "medium"
+    coat_conf_min: 0.4
+    coat_hold_sec: 0.5
+  R2:
+    name: "RESTRICTED_ZONE"
+    enabled: false
+    target_zone_type: "restricted"
+    anchor_point: "bottom_center"
+    min_duration_sec: 1.5
+    grace_period_sec: 0.3
+    cooldown_sec: 10.0
+    severity: "high"
+  R3:
+    name: "PHONE_USAGE"
+    description: "Pose-assisted phone-near-hand behavior candidate"
+    enabled: true
+    target_zone_type: "general"
+    association_mode: "pose_hand"
+    min_duration_sec: 3.0
+    grace_period_sec: 0.4
+    cooldown_sec: 15.0
+    upper_body_ratio: 0.65
+    phone_conf_min: 0.30
+    pose_keypoint_conf_min: 0.35
+    phone_wrist_max_dist_ratio: 0.18
+    severity: "medium"
+common:
+  person_conf_min: 0.5
+  dedup_iou: 0.5
+  full_frame_fallback: false
+  event_id_db: "runs/r3_pose_test_event_sequence.sqlite3"
+tracker:
+  lost_buffer_sec: 3.0
+  activation_threshold: 0.5
+  high_conf_threshold: 0.6
+  min_consecutive_frames: 2
+  min_iou: 0.05

@@ -1,0 +1,6 @@
+{
+    "Hash":  "7960BFAE7B806E077FDFDB004117A49DFFA21514B3BEC09BB9DFF3AA8DBDC410",
+    "ValImage":  "C:\\Users\\ACER\\Downloads\\DIP-BIG-ASSIGNMENT-main\\data\\external\\processed\\lab_coat_v2_class2_clean\\images\\val\\LC12_jpg.rf.8a3c8005c7cec8b1acf3a1d82c152652.jpg",
+    "ValLabel":  ".\\data\\external\\processed\\lab_coat_v2_class2_clean\\labels\\val\\LC12_jpg.rf.8a3c8005c7cec8b1acf3a1d82c152652.txt",
+    "TestImage":  "LC12_jpg.rf.315aeef4e52131c9a5c83c51c2aa0155.jpg"
+}

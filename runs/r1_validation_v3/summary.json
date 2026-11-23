@@ -1,0 +1,26 @@
+{
+  "frames": 900,
+  "fps": 30.0,
+  "input_fps": 30.0,
+  "processing_seconds": 75.502,
+  "processing_fps": 11.92,
+  "detections_by_class": {
+    "person": 807,
+    "lab_coat": 127
+  },
+  "mean_tracks_per_frame": 0.878,
+  "unique_track_ids": 4,
+  "median_track_life_sec": 7.13,
+  "short_tracks_lt_1s": 1,
+  "events_by_rule": {
+    "R1": 1
+  },
+  "pose": {
+    "enabled": false,
+    "weights": null,
+    "pose_instances": 0,
+    "matched_to_person_tracks": 0,
+    "pose_track_match_rate": 0.0,
+    "match_iou_threshold": null
+  }
+}
