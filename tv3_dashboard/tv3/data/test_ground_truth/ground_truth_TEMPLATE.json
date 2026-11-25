@@ -1,7 +1,0 @@
-{
-  "_note": "Mẫu. Điền các khoảng thời gian (giây, theo thời gian video) mà BẠN xem video và xác nhận có vi phạm thật. Đổi tên file thành zone_test.json rồi truyền qua --gt.",
-  "video_duration_sec": 0,
-  "events": [
-    { "rule_id": "R2", "start_sec": 0.0, "end_sec": 0.0, "note": "ví dụ: người đi vào vùng cấm" }
-  ]
-}
